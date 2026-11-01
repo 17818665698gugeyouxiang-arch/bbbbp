@@ -1,0 +1,86 @@
+{
+  "source": "新增内容/S2.pdf",
+  "sha256": "ecb9831149627cefe761530571c2df03338786baf2c688632497f205b711b1ef",
+  "binomial": [
+    {
+      "src": "/s2-reference/binomial-139.webp",
+      "pdfPage": 144,
+      "bookPage": 139,
+      "width": 985,
+      "height": 1360,
+      "crop": [
+        199,
+        164,
+        1184,
+        1524
+      ]
+    },
+    {
+      "src": "/s2-reference/binomial-140.webp",
+      "pdfPage": 145,
+      "bookPage": 140,
+      "width": 910,
+      "height": 1304,
+      "crop": [
+        104,
+        163,
+        1014,
+        1467
+      ]
+    },
+    {
+      "src": "/s2-reference/binomial-141.webp",
+      "pdfPage": 146,
+      "bookPage": 141,
+      "width": 910,
+      "height": 1373,
+      "crop": [
+        199,
+        163,
+        1109,
+        1536
+      ]
+    },
+    {
+      "src": "/s2-reference/binomial-142.webp",
+      "pdfPage": 147,
+      "bookPage": 142,
+      "width": 910,
+      "height": 946,
+      "crop": [
+        104,
+        163,
+        1014,
+        1109
+      ]
+    },
+    {
+      "src": "/s2-reference/binomial-143.webp",
+      "pdfPage": 148,
+      "bookPage": 143,
+      "width": 910,
+      "height": 1100,
+      "crop": [
+        199,
+        163,
+        1109,
+        1263
+      ]
+    }
+  ],
+  "poisson": [
+    {
+      "src": "/s2-reference/poisson-144.webp",
+      "pdfPage": 149,
+      "bookPage": 144,
+      "width": 910,
+      "height": 1318,
+      "crop": [
+        104,
+        164,
+        1014,
+        1482
+      ]
+    }
+  ]
+}
