@@ -63,7 +63,7 @@ export function startLocalSync(onStatus:(status:SyncStatus)=>void){
  let stopped=false,inFlight:Promise<void>|undefined,mutationTimer:number|undefined,first=true;
  async function once(choice?:'local'|'remote'){
   if(cloudEnabled&&!await cloudUser()){onStatus({state:'saved',message:'游客模式：记录只保存在此浏览器，登录后使用独立的云端学习空间。'});return;}
-  if(first)onStatus({state:'working',message:'正在同步本机记录…'});first=false;
+  if(first)onStatus({state:'working',message:cloudEnabled?'正在同步学习记录…':'正在同步本机记录…'});first=false;
   let baseline=(await db.syncMeta.get('baseline'))?.value as Baseline|undefined;
   const remote:Server=await jsonFetch('/api/study');
   remote.data={...emptySnapshot(),...remote.data};
