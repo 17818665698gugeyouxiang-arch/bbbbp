@@ -1,0 +1,1996 @@
+[
+  {
+    "id": "s2-2026-06-a",
+    "subject": "s2",
+    "year": 2026,
+    "month": 6,
+    "title": "2026 年 6 月 · S2（A 卷）",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。本卷对应 WST02/01A，与同场次常规卷分开保存；已排除附带的空白答题册。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2026-06-a/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2026-06-a/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2026-06-a/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2026-06-a/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2026-06-a-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q2/prompt/03.webp",
+            "page": 3
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q3/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q4/prompt/05.webp",
+            "page": 5
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q4/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 13,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q5/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q5/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q6/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q6/answer/11.webp",
+            "page": 11
+          },
+          {
+            "src": "/s2/s2-2026-06-a/q6/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-06-a-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06-a/q7/prompt/07.webp",
+            "page": 7
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06-a/q7/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2026-06_QP_S2A.pdf",
+        "answerSource": "2026-06_MS_S2A.pdf"
+      }
+    ],
+    "variant": "A"
+  },
+  {
+    "id": "s2-2026-06",
+    "subject": "s2",
+    "year": 2026,
+    "month": 6,
+    "title": "2026 年 6 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2026-06/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2026-06/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2026-06/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2026-06/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2026-06-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 4,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q2/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q2/answer/07.webp",
+            "page": 7
+          },
+          {
+            "src": "/s2/s2-2026-06/q2/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 14,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q3/prompt/08.webp",
+            "page": 8
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q3/answer/09.webp",
+            "page": 9
+          },
+          {
+            "src": "/s2/s2-2026-06/q3/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q4/prompt/12.webp",
+            "page": 12
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q4/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 16,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q5/prompt/16.webp",
+            "page": 16
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q5/answer/12.webp",
+            "page": 12
+          },
+          {
+            "src": "/s2/s2-2026-06/q5/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q6/prompt/20.webp",
+            "page": 20
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q6/answer/14.webp",
+            "page": 14
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-06-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-06/q7/prompt/24.webp",
+            "page": 24
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-06/q7/answer/15.webp",
+            "page": 15
+          }
+        ],
+        "source": "2026-06_QP_S2.pdf",
+        "answerSource": "2026-06_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2026-01-a",
+    "subject": "s2",
+    "year": 2026,
+    "month": 1,
+    "title": "2026 年 1 月 · S2（A 卷）",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。本卷对应 WST02/01A，与同场次常规卷分开保存；已排除附带的空白答题册。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2026-01-a/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2026-01-a/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2026-01-a/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2026-01-a/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2026-01-a-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q1/answer/07.webp",
+            "page": 7
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q1/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q2/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q2/answer/09.webp",
+            "page": 9
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q2/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q3/prompt/03.webp",
+            "page": 3
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q3/answer/11.webp",
+            "page": 11
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q3/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 7,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q4/prompt/03.webp",
+            "page": 3
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q4/answer/13.webp",
+            "page": 13
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q4/answer/14.webp",
+            "page": 14
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q5/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q5/answer/15.webp",
+            "page": 15
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q5/answer/16.webp",
+            "page": 16
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 15,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q6/prompt/05.webp",
+            "page": 5
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q6/answer/17.webp",
+            "page": 17
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q6/answer/18.webp",
+            "page": 18
+          },
+          {
+            "src": "/s2/s2-2026-01-a/q6/answer/19.webp",
+            "page": 19
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2026-01-a-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01-a/q7/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01-a/q7/answer/20.webp",
+            "page": 20
+          }
+        ],
+        "source": "2026-01_QP_S2A.pdf",
+        "answerSource": "2026-01_MS_S2A.pdf"
+      }
+    ],
+    "variant": "A"
+  },
+  {
+    "id": "s2-2026-01",
+    "subject": "s2",
+    "year": 2026,
+    "month": 1,
+    "title": "2026 年 1 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2026-01/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2026-01/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2026-01/notes/04.webp",
+        "page": 4
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2026-01-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 7,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q1/answer/05.webp",
+            "page": 5
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q2/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q2/answer/06.webp",
+            "page": 6
+          },
+          {
+            "src": "/s2/s2-2026-01/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q3/prompt/08.webp",
+            "page": 8
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q4/prompt/12.webp",
+            "page": 12
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q4/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q5/prompt/14.webp",
+            "page": 14
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q5/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 19,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q6/prompt/18.webp",
+            "page": 18
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q6/answer/11.webp",
+            "page": 11
+          },
+          {
+            "src": "/s2/s2-2026-01/q6/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2026-01-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2026-01/q7/prompt/22.webp",
+            "page": 22
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2026-01/q7/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2026-01_QP_S2.pdf",
+        "answerSource": "2026-01_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2025-10-a",
+    "subject": "s2",
+    "year": 2025,
+    "month": 10,
+    "title": "2025 年 10 月 · S2（A 卷）",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。本卷对应 WST02/01A，与同场次常规卷分开保存；已排除附带的空白答题册。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2025-10-a/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2025-10-a/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2025-10-a/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2025-10-a/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2025-10-a-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q2/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q3/prompt/03.webp",
+            "page": 3
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 14,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q4/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q4/answer/09.webp",
+            "page": 9
+          },
+          {
+            "src": "/s2/s2-2025-10-a/q4/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 13,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q5/prompt/05.webp",
+            "page": 5
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q5/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q6/prompt/05.webp",
+            "page": 5
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q6/answer/12.webp",
+            "page": 12
+          },
+          {
+            "src": "/s2/s2-2025-10-a/q6/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      },
+      {
+        "id": "s2-2025-10-a-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10-a/q7/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10-a/q7/answer/14.webp",
+            "page": 14
+          }
+        ],
+        "source": "2025-10_QP_S2A.pdf",
+        "answerSource": "2025-10_MS_S2A.pdf"
+      }
+    ],
+    "variant": "A"
+  },
+  {
+    "id": "s2-2025-10",
+    "subject": "s2",
+    "year": 2025,
+    "month": 10,
+    "title": "2025 年 10 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2025-10/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2025-10/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2025-10/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2025-10/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2025-10-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 4,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q2/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q2/answer/07.webp",
+            "page": 7
+          },
+          {
+            "src": "/s2/s2-2025-10/q2/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 13,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q3/prompt/08.webp",
+            "page": 8
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q3/answer/09.webp",
+            "page": 9
+          },
+          {
+            "src": "/s2/s2-2025-10/q3/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q4/prompt/12.webp",
+            "page": 12
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q4/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 15,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q5/prompt/16.webp",
+            "page": 16
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q5/answer/12.webp",
+            "page": 12
+          },
+          {
+            "src": "/s2/s2-2025-10/q5/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q6/prompt/20.webp",
+            "page": 20
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q6/answer/14.webp",
+            "page": 14
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-10-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-10/q7/prompt/22.webp",
+            "page": 22
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-10/q7/answer/15.webp",
+            "page": 15
+          },
+          {
+            "src": "/s2/s2-2025-10/q7/answer/16.webp",
+            "page": 16
+          }
+        ],
+        "source": "2025-10_QP_S2.pdf",
+        "answerSource": "2025-10_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2025-06",
+    "subject": "s2",
+    "year": 2025,
+    "month": 6,
+    "title": "2025 年 6 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2025-06/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2025-06/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2025-06/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2025-06/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2025-06-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q2/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q3/prompt/10.webp",
+            "page": 10
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q4/prompt/14.webp",
+            "page": 14
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q4/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q5/prompt/18.webp",
+            "page": 18
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q5/answer/10.webp",
+            "page": 10
+          },
+          {
+            "src": "/s2/s2-2025-06/q5/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q6/prompt/22.webp",
+            "page": 22
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q6/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-06-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 14,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-06/q7/prompt/24.webp",
+            "page": 24
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-06/q7/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2025-06_QP_S2.pdf",
+        "answerSource": "2025-06_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2025-01",
+    "subject": "s2",
+    "year": 2025,
+    "month": 1,
+    "title": "2025 年 1 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2025-01/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2025-01/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2025-01/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2025-01/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2025-01-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q1/answer/06.webp",
+            "page": 6
+          },
+          {
+            "src": "/s2/s2-2025-01/q1/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q2/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q2/answer/08.webp",
+            "page": 8
+          },
+          {
+            "src": "/s2/s2-2025-01/q2/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 15,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q3/prompt/10.webp",
+            "page": 10
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q3/answer/10.webp",
+            "page": 10
+          },
+          {
+            "src": "/s2/s2-2025-01/q3/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q4/prompt/14.webp",
+            "page": 14
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q4/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q5/prompt/18.webp",
+            "page": 18
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q5/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q6/prompt/20.webp",
+            "page": 20
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q6/answer/14.webp",
+            "page": 14
+          },
+          {
+            "src": "/s2/s2-2025-01/q6/answer/15.webp",
+            "page": 15
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2025-01-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2025-01/q7/prompt/22.webp",
+            "page": 22
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2025-01/q7/answer/16.webp",
+            "page": 16
+          },
+          {
+            "src": "/s2/s2-2025-01/q7/answer/17.webp",
+            "page": 17
+          }
+        ],
+        "source": "2025-01_QP_S2.pdf",
+        "answerSource": "2025-01_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2024-10",
+    "subject": "s2",
+    "year": 2024,
+    "month": 10,
+    "title": "2024 年 10 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2024-10/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2024-10/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2024-10/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2024-10/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2024-10-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q2/prompt/04.webp",
+            "page": 4
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q3/prompt/08.webp",
+            "page": 8
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q4/prompt/12.webp",
+            "page": 12
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q4/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q5/prompt/16.webp",
+            "page": 16
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q5/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 11,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q6/prompt/20.webp",
+            "page": 20
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q6/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-10-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 15,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-10/q7/prompt/24.webp",
+            "page": 24
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-10/q7/answer/12.webp",
+            "page": 12
+          },
+          {
+            "src": "/s2/s2-2024-10/q7/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2024-10_QP_S2.pdf",
+        "answerSource": "2024-10_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2024-06",
+    "subject": "s2",
+    "year": 2024,
+    "month": 6,
+    "title": "2024 年 6 月 · S2",
+    "instructions": "本卷共 6 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 6,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2024-06/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2024-06/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2024-06/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2024-06/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2024-06-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 13,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-06-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q2/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-06-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 15,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q3/prompt/10.webp",
+            "page": 10
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-06-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q4/prompt/14.webp",
+            "page": 14
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q4/answer/09.webp",
+            "page": 9
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-06-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q5/prompt/18.webp",
+            "page": 18
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q5/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-06-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 16,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-06/q6/prompt/22.webp",
+            "page": 22
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-06/q6/answer/11.webp",
+            "page": 11
+          },
+          {
+            "src": "/s2/s2-2024-06/q6/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2024-06_QP_S2.pdf",
+        "answerSource": "2024-06_MS_S2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "s2-2024-01",
+    "subject": "s2",
+    "year": 2024,
+    "month": 1,
+    "title": "2024 年 1 月 · S2",
+    "instructions": "本卷共 7 道大题，满分 75 分。每道大题保留全部小问，按第 1、2、3…题依次训练。原卷时长 90 分钟；本站只计用时，不强制限时。",
+    "choose": 7,
+    "scoreCap": 75,
+    "ready": true,
+    "cover": [
+      {
+        "src": "/s2/s2-2024-01/cover.webp",
+        "page": 1
+      }
+    ],
+    "markingNotes": [
+      {
+        "src": "/s2/s2-2024-01/notes/03.webp",
+        "page": 3
+      },
+      {
+        "src": "/s2/s2-2024-01/notes/04.webp",
+        "page": 4
+      },
+      {
+        "src": "/s2/s2-2024-01/notes/05.webp",
+        "page": 5
+      }
+    ],
+    "questions": [
+      {
+        "id": "s2-2024-01-q1",
+        "number": "1",
+        "title": "第 1 题",
+        "maxScore": 16,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q1/prompt/02.webp",
+            "page": 2
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q1/answer/06.webp",
+            "page": 6
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q2",
+        "number": "2",
+        "title": "第 2 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q2/prompt/06.webp",
+            "page": 6
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q2/answer/07.webp",
+            "page": 7
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q3",
+        "number": "3",
+        "title": "第 3 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q3/prompt/08.webp",
+            "page": 8
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q3/answer/08.webp",
+            "page": 8
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q4",
+        "number": "4",
+        "title": "第 4 题",
+        "maxScore": 12,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q4/prompt/12.webp",
+            "page": 12
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q4/answer/09.webp",
+            "page": 9
+          },
+          {
+            "src": "/s2/s2-2024-01/q4/answer/10.webp",
+            "page": 10
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q5",
+        "number": "5",
+        "title": "第 5 题",
+        "maxScore": 10,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q5/prompt/16.webp",
+            "page": 16
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q5/answer/11.webp",
+            "page": 11
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q6",
+        "number": "6",
+        "title": "第 6 题",
+        "maxScore": 9,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q6/prompt/20.webp",
+            "page": 20
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q6/answer/12.webp",
+            "page": 12
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      },
+      {
+        "id": "s2-2024-01-q7",
+        "number": "7",
+        "title": "第 7 题",
+        "maxScore": 8,
+        "prompt": [
+          {
+            "src": "/s2/s2-2024-01/q7/prompt/24.webp",
+            "page": 24
+          }
+        ],
+        "answer": [
+          {
+            "src": "/s2/s2-2024-01/q7/answer/13.webp",
+            "page": 13
+          }
+        ],
+        "source": "2024-01_QP_S2.pdf",
+        "answerSource": "2024-01_MS_S2.pdf"
+      }
+    ]
+  }
+]
