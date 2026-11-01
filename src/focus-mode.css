@@ -1,0 +1,10 @@
+.focus-mode>.sidebar{display:none}
+.focus-mode>main{margin-left:0;width:100%;padding-bottom:0}
+.focus-mode .topbar{position:sticky;top:0;z-index:20;height:52px;padding:0 24px;justify-content:flex-start}
+.focus-exit{font-size:14px;padding:8px 6px;min-height:40px;color:var(--green)}
+.focus-mode .content{max-width:1600px;padding:20px 28px 35px;min-height:calc(100vh - 120px)}
+.focus-mode .s2-training-sidebar{top:68px;max-height:calc(100dvh - 84px)}
+.focus-mode .question-nav{top:68px;max-height:calc(100dvh - 84px)}
+.focus-mode .s2-training-sidebar .question-nav{position:static;max-height:150px}
+.focus-mode .marking-aside{top:68px}
+@media(max-width:760px){.focus-mode .content{padding:18px 16px 24px}.focus-mode .topbar{padding:0 12px}.focus-mode .s2-training-sidebar{position:static;max-height:none}.focus-mode .question-nav{position:static;max-height:170px}.focus-mode .s2-training-sidebar .question-nav{max-height:150px}}
