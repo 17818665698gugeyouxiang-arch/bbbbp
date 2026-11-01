@@ -1,0 +1,62 @@
+[
+  {
+    "name": "questions.pdf",
+    "parts": [
+      "questions.pdf.000.bin",
+      "questions.pdf.001.bin",
+      "questions.pdf.002.bin",
+      "questions.pdf.003.bin",
+      "questions.pdf.004.bin",
+      "questions.pdf.005.bin",
+      "questions.pdf.006.bin",
+      "questions.pdf.007.bin",
+      "questions.pdf.008.bin",
+      "questions.pdf.009.bin",
+      "questions.pdf.010.bin",
+      "questions.pdf.011.bin",
+      "questions.pdf.012.bin",
+      "questions.pdf.013.bin",
+      "questions.pdf.014.bin",
+      "questions.pdf.015.bin",
+      "questions.pdf.016.bin",
+      "questions.pdf.017.bin",
+      "questions.pdf.018.bin",
+      "questions.pdf.019.bin",
+      "questions.pdf.020.bin",
+      "questions.pdf.021.bin",
+      "questions.pdf.022.bin",
+      "questions.pdf.023.bin",
+      "questions.pdf.024.bin",
+      "questions.pdf.025.bin",
+      "questions.pdf.026.bin",
+      "questions.pdf.027.bin",
+      "questions.pdf.028.bin",
+      "questions.pdf.029.bin",
+      "questions.pdf.030.bin",
+      "questions.pdf.031.bin"
+    ],
+    "sha256": "92949d87686c4ff171b30568da706aa318286d01943cf4e50348ace5b4618bdd"
+  },
+  {
+    "name": "answers.pdf",
+    "parts": [
+      "answers.pdf.000.bin",
+      "answers.pdf.001.bin",
+      "answers.pdf.002.bin",
+      "answers.pdf.003.bin",
+      "answers.pdf.004.bin",
+      "answers.pdf.005.bin",
+      "answers.pdf.006.bin",
+      "answers.pdf.007.bin",
+      "answers.pdf.008.bin",
+      "answers.pdf.009.bin",
+      "answers.pdf.010.bin",
+      "answers.pdf.011.bin",
+      "answers.pdf.012.bin",
+      "answers.pdf.013.bin",
+      "answers.pdf.014.bin",
+      "answers.pdf.015.bin"
+    ],
+    "sha256": "29753409b111796a81ee9b8c206689bb35380b81930835d6e4b4ddf678e3d9e9"
+  }
+]
