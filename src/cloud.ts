@@ -5,7 +5,7 @@ const openedAccount=accountDatabaseName().replace('bpho-study-v1-cloud-','');
 export const openedCloudAccount=openedAccount==='bpho-study-v1'?undefined:openedAccount;
 export const supabase=cloudEnabled&&cloudConfig?createClient(cloudConfig.url,cloudConfig.key,{global:{fetch:cloudRequestFetch(openedCloudAccount)},auth:{storageKey:cloudStorageKey,persistSession:true,autoRefreshToken:true,detectSessionInUrl:false}}):undefined;
 export async function cloudUser(){const user=(await supabase?.auth.getSession())?.data.session?.user;if(user&&user.id!==openedAccount)throw Error('账号已变更，请刷新页面打开对应的学习空间。原记录已保留');return user;}
-function failure(e:{message:string;code?:string}){return Object.assign(Error(e.message.includes('STUDY_CONFLICT')?'另一台设备刚刚保存了修改，正在重新合并':e.message),{status:e.message.includes('STUDY_CONFLICT')?409:400});}
+function failure(e:{message:string;code?:string}){return Object.assign(Error(e.message.includes('STUDY_CONFLICT')?'另一台设备刚刚保存了修改，正在重新合并':e.message.includes('STUDY_CLIENT_UPGRADE')?'请刷新网站后再同步，旧版页面无法安全保存专项记录。':e.message),{status:e.message.includes('STUDY_CONFLICT')?409:400});}
 export async function cloudJson(url:string,options?:RequestInit){
  if(!supabase)throw Error('云服务未配置');
  const user=await cloudUser();if(!user)throw Error('请先登录账号，浏览器中的记录仍保留');

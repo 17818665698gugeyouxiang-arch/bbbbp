@@ -1,0 +1,6957 @@
+[
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 1,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          53.27447509765625,
+          527.0,
+          325.0919494628906
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 2,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          48.779151916503906,
+          527.0,
+          365.4030456542969
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      6,
+      35
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.023006439208984,
+          527.0,
+          247.23825073242188
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 4,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          54.5269775390625,
+          527.0,
+          324.0054016113281
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.011287689208984,
+          527.0,
+          335.1414489746094
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      4,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 6,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          48.779151916503906,
+          527.0,
+          345.4590148925781
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      4,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 7,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          54.41888427734375,
+          527.0,
+          424.876708984375
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 8,
+    "maxScore": 5,
+    "msTotals": [
+      5,
+      5
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          51.199073791503906,
+          527.0,
+          156.85812377929688
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2026-06-new",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [
+      12
+    ],
+    "prompt": [
+      {
+        "page": 32,
+        "rect": [
+          38.0,
+          48.779151916503906,
+          527.0,
+          494.6507873535156
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 1,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          56.485939025878906,
+          527.0,
+          285.0589904785156
+        ]
+      }
+    ],
+    "answerPages": [
+      6
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.45045852661133,
+          527.0,
+          177.94088745117188
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 3,
+    "maxScore": 5,
+    "msTotals": [
+      5
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.689998626708984,
+          527.0,
+          197.45645141601562
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          53.941524505615234,
+          527.0,
+          326.4906311035156
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          416.11871337890625
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 6,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.45045852661133,
+          527.0,
+          359.6466979980469
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 7,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          49.76253890991211,
+          527.0,
+          230.68063354492188
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 8,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          244.80484008789062
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 9,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          48.50699996948242,
+          527.0,
+          509.2140197753906
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2026-01-new",
+    "question": 10,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          199.75375366210938
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          53.27392578125,
+          527.0,
+          246.32833862304688
+        ]
+      }
+    ],
+    "answerPages": [
+      6,
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      30,
+      45
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 2,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          54.42340087890625,
+          527.0,
+          474.0213317871094
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      4,
+      5,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          49.010738372802734,
+          527.0,
+          335.4644470214844
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7,
+      32762,
+      33000
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          49.022396087646484,
+          527.0,
+          334.3359069824219
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          49.022396087646484,
+          527.0,
+          362.30133056640625
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11,
+      15,
+      91
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 6,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          48.778602600097656,
+          527.0,
+          397.1045227050781
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      5,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 7,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          48.778602600097656,
+          527.0,
+          321.4761047363281
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      10,
+      68,
+      192,
+      7412
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 8,
+    "maxScore": 13,
+    "msTotals": [
+      13
+    ],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          49.010738372802734,
+          527.0,
+          433.984130859375
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22,
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      10,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2025-06-new",
+    "question": 9,
+    "maxScore": 4,
+    "msTotals": [
+      4
+    ],
+    "prompt": [
+      {
+        "page": 34,
+        "rect": [
+          38.0,
+          49.010738372802734,
+          527.0,
+          460.6026306152344
+        ]
+      }
+    ],
+    "answerPages": [
+      24
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      120,
+      300
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          53.27349853515625,
+          527.0,
+          222.40127563476562
+        ]
+      }
+    ],
+    "answerPages": [
+      6,
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          55.52349853515625,
+          527.0,
+          327.0738830566406
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      9,
+      10,
+      12,
+      14,
+      108
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          356.4585266113281
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          54.855342864990234,
+          527.0,
+          307.8801574707031
+        ]
+      }
+    ],
+    "answerPages": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      12,
+      17,
+      21,
+      27,
+      32,
+      81
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          244.78414916992188
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          291.2628479003906
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      9,
+      10,
+      750,
+      1500
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          55.177001953125,
+          527.0,
+          521.9384155273438
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      5,
+      7,
+      11,
+      35,
+      49,
+      70,
+      91,
+      182
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 8,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          48.573097229003906,
+          527.0,
+          310.3351135253906
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22,
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2025-01-new",
+    "question": 9,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          56.6875,
+          527.0,
+          434.0870361328125
+        ]
+      }
+    ],
+    "answerPages": [
+      24
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      8,
+      256
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          49.010005950927734,
+          527.0,
+          448.54901123046875
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          48.817012786865234,
+          527.0,
+          450.863037109375
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      9,
+      10,
+      29,
+      87
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          54.53401184082031,
+          527.0,
+          293.2391052246094
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7,
+      161
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          48.817012786865234,
+          527.0,
+          326.3890686035156
+        ]
+      }
+    ],
+    "answerPages": [
+      11,
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      25,
+      37
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          45.0,
+          527.0,
+          308.6480407714844
+        ]
+      }
+    ],
+    "answerPages": [
+      13,
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.198158264160156,
+          527.0,
+          418.3990173339844
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 7,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          48.817012786865234,
+          527.0,
+          288.3789978027344
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 8,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          48.573158264160156,
+          527.0,
+          154.23208618164062
+        ]
+      }
+    ],
+    "answerPages": [
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      57
+    ]
+  },
+  {
+    "paper": "fp1-2024-06-new",
+    "question": 9,
+    "maxScore": 13,
+    "msTotals": [
+      13,
+      75
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          48.778175354003906,
+          527.0,
+          415.2370300292969
+        ]
+      }
+    ],
+    "answerPages": [
+      19,
+      20,
+      21
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      13,
+      25,
+      56,
+      75,
+      87,
+      841
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [
+      5
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          216.21017456054688
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          355.2982482910156
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      9,
+      41
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          48.778175354003906,
+          527.0,
+          299.4346618652344
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          357.6749572753906
+        ]
+      }
+    ],
+    "answerPages": [
+      11,
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          370.8666687011719
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9,
+      98,
+      185,
+      309
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          393.8019104003906
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 7,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          56.459503173828125,
+          527.0,
+          276.8155212402344
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 8,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          255.73648071289062
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 9,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          293.2644348144531
+        ]
+      }
+    ],
+    "answerPages": [
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2024-01-new",
+    "question": 10,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          51.198097229003906,
+          527.0,
+          236.23507690429688
+        ]
+      }
+    ],
+    "answerPages": [
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 1,
+    "maxScore": 4,
+    "msTotals": [
+      4
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          52.5455207824707,
+          527.0,
+          202.10525512695312
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          49.010433197021484,
+          527.0,
+          277.9355773925781
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.022151947021484,
+          527.0,
+          275.4558410644531
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          53.489501953125,
+          527.0,
+          274.9562072753906
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      10,
+      11,
+      24,
+      27,
+      31
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 5,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          48.778297424316406,
+          527.0,
+          329.2759704589844
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      6,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 6,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          49.010433197021484,
+          527.0,
+          373.85675048828125
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      5,
+      10,
+      12,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          56.401161193847656,
+          527.0,
+          329.1140441894531
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 8,
+    "maxScore": 13,
+    "msTotals": [
+      13
+    ],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          48.778297424316406,
+          527.0,
+          241.49227905273438
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2023-06-new",
+    "question": 9,
+    "maxScore": 5,
+    "msTotals": [
+      75
+    ],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          52.55793762207031,
+          527.0,
+          158.15927124023438
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      75
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          243.37313842773438
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 2,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          226.04605102539062
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 3,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          346.9041442871094
+        ]
+      }
+    ],
+    "answerPages": [
+      9,
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          343.4102478027344
+        ]
+      }
+    ],
+    "answerPages": [
+      11,
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          323.5499572753906
+        ]
+      }
+    ],
+    "answerPages": [
+      13,
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          401.69439697265625
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          498.2286376953125
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 8,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          53.941524505615234,
+          527.0,
+          402.6881103515625
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2023-01-new",
+    "question": 9,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          130.87349700927734
+        ]
+      }
+    ],
+    "answerPages": [
+      23,
+      24
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.441951751708984,
+          527.0,
+          256.4476623535156
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          56.5,
+          527.0,
+          322.3692321777344
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 3,
+    "maxScore": 4,
+    "msTotals": [
+      4
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          52.59381103515625,
+          527.0,
+          215.46426391601562
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      4
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8,
+      8
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          245.52206420898438
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 5,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          395.6830139160156
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 6,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          350.0591735839844
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          55.11748504638672,
+          527.0,
+          472.5685119628906
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 8,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          53.56095886230469,
+          527.0,
+          235.90005493164062
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-06-new",
+    "question": 9,
+    "maxScore": 10,
+    "msTotals": [
+      8,
+      10
+    ],
+    "prompt": [
+      {
+        "page": 32,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          314.8510437011719
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      5,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          52.59381103515625,
+          527.0,
+          144.23342895507812
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 2,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          368.8003845214844
+        ]
+      }
+    ],
+    "answerPages": [
+      9,
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 3,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          48.778175354003906,
+          527.0,
+          275.6060485839844
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          347.9341735839844
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          53.445247650146484,
+          527.0,
+          475.05523681640625
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          415.272705078125
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          322.9343566894531
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      9,
+      65
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 8,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          56.62553405761719,
+          527.0,
+          512.6718139648438
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      5,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2022-01-new",
+    "question": 9,
+    "maxScore": 14,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 32,
+        "rect": [
+          38.0,
+          51.441951751708984,
+          527.0,
+          353.4704284667969
+        ]
+      }
+    ],
+    "answerPages": [
+      20,
+      21
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [
+      5
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          54.08599853515625,
+          527.0,
+          249.46334838867188
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          55.1732177734375,
+          527.0,
+          294.6998596191406
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 3,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          444.32232666015625
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8,
+      9,
+      41
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          48.778175354003906,
+          527.0,
+          265.6220397949219
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.1303596496582,
+          527.0,
+          285.6847839355469
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      8,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.022029876708984,
+          527.0,
+          336.2046813964844
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          48.816951751708984,
+          527.0,
+          495.1585388183594
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 8,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          48.778175354003906,
+          527.0,
+          474.780517578125
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2021-10-new",
+    "question": 9,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 32,
+        "rect": [
+          38.0,
+          49.010311126708984,
+          527.0,
+          312.7499694824219
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      10,
+      15
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 1,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          336.2638854980469
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          307.6678161621094
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 3,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          431.6758117675781
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          254.27188110351562
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          51.348182678222656,
+          527.0,
+          269.9318542480469
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 6,
+    "maxScore": 16,
+    "msTotals": [
+      16
+    ],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          392.67181396484375
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      16
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          52.079708099365234,
+          527.0,
+          366.8878479003906
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6,
+      10,
+      11,
+      25
+    ]
+  },
+  {
+    "paper": "fp1-2021-06-new",
+    "question": 8,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          47.138160705566406,
+          527.0,
+          97.6340560913086
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          168.27987670898438
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 2,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          56.437408447265625,
+          527.0,
+          245.85317993164062
+        ]
+      }
+    ],
+    "answerPages": [
+      9,
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 3,
+    "maxScore": 4,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          233.13607788085938
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      4
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          244.66781616210938
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          50.4832649230957,
+          527.0,
+          297.1335754394531
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 6,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          448.9547424316406
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.648128509521484,
+          527.0,
+          493.9609375
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 8,
+    "maxScore": 14,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          351.0718688964844
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2021-01-new",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          269.9569396972656
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 1,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          55.99363708496094,
+          527.0,
+          258.41224670410156
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          49.648128509521484,
+          527.0,
+          396.8680114746094
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 3,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.560096740722656,
+          527.0,
+          266.2598571777344
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 4,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.79045104980469,
+          527.0,
+          245.43838500976562
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [
+      9
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          270.0222473144531
+        ]
+      }
+    ],
+    "answerPages": [
+      13,
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 6,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          55.03380584716797,
+          527.0,
+          442.30462646484375
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 7,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          49.560096740722656,
+          527.0,
+          276.2558288574219
+        ]
+      }
+    ],
+    "answerPages": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2020-10-new",
+    "question": 8,
+    "maxScore": 12,
+    "msTotals": [
+      12
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          52.079708099365234,
+          527.0,
+          254.49172973632812
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22,
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          54.72381591796875,
+          527.0,
+          215.27444458007812
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 2,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          57.1378173828125,
+          527.0,
+          235.33187866210938
+        ]
+      }
+    ],
+    "answerPages": [
+      9,
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      13,
+      17,
+      18,
+      33,
+      39
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          54.820716857910156,
+          527.0,
+          190.55166625976562
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      9,
+      5895,
+      227825
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          52.91131591796875,
+          527.0,
+          308.9737243652344
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      40,
+      45,
+      145
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          54.28821563720703,
+          527.0,
+          234.35537719726562
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 6,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          55.81578826904297,
+          527.0,
+          356.1758728027344
+        ]
+      }
+    ],
+    "answerPages": [
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      13,
+      77
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          494.50201416015625
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22,
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      15,
+      36,
+      60
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 8,
+    "maxScore": 14,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          350.6558532714844
+        ]
+      }
+    ],
+    "answerPages": [
+      24,
+      25
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      8,
+      14,
+      136
+    ]
+  },
+  {
+    "paper": "fp1-2020-01-new",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          48.17903137207031,
+          527.0,
+          277.4678039550781
+        ]
+      }
+    ],
+    "answerPages": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      12,
+      27
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 1,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.47999572753906,
+          527.0,
+          348.77203369140625
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      17,
+      25,
+      29,
+      51
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 2,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.47578430175781,
+          527.0,
+          214.5957794189453
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5,
+      6,
+      320
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 3,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          455.4695129394531
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      5,
+      8,
+      10,
+      12,
+      40,
+      60,
+      240
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 4,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.03572082519531,
+          527.0,
+          286.8201599121094
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      6,
+      9,
+      17,
+      26
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          51.47999572753906,
+          527.0,
+          393.1723937988281
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      3,
+      4,
+      7,
+      8,
+      28,
+      30
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          404.96240234375
+        ]
+      }
+    ],
+    "answerPages": [
+      20,
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      15,
+      19,
+      21,
+      23,
+      38
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 7,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          235.7760772705078
+        ]
+      }
+    ],
+    "answerPages": [
+      23,
+      24
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      9,
+      10,
+      12,
+      18,
+      44
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 8,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          124.97322845458984
+        ]
+      }
+    ],
+    "answerPages": [
+      25,
+      26,
+      27
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2019-06-new",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          432.96942138671875
+        ]
+      }
+    ],
+    "answerPages": [
+      28,
+      29,
+      30
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 1,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          210.26785278320312
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 2,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          238.46286010742188
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          55.08531188964844,
+          527.0,
+          236.43191528320312
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      7,
+      20,
+      25,
+      26,
+      1456925
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          288.8708801269531
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      7,
+      16
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          264.6678771972656
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      8,
+      49
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          256.6718444824219
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      12,
+      15,
+      24,
+      25,
+      100
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          334.8667297363281
+        ]
+      }
+    ],
+    "answerPages": [
+      20,
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      11,
+      33
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 8,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          52.079708099365234,
+          527.0,
+          286.2877502441406
+        ]
+      }
+    ],
+    "answerPages": [
+      23,
+      24,
+      25
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2019-01-old",
+    "question": 9,
+    "maxScore": 13,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          359.0718688964844
+        ]
+      }
+    ],
+    "answerPages": [
+      26,
+      27
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      5,
+      8,
+      13,
+      49
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 1,
+    "maxScore": 4,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.4422492980957,
+          527.0,
+          191.81387329101562
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          49.648128509521484,
+          527.0,
+          358.2656555175781
+        ]
+      }
+    ],
+    "answerPages": [
+      9,
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      6,
+      7,
+      147
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 3,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          483.2911071777344
+        ]
+      }
+    ],
+    "answerPages": [
+      11,
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          340.1027526855469
+        ]
+      }
+    ],
+    "answerPages": [
+      13,
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          49.648128509521484,
+          527.0,
+          294.2607727050781
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      6,
+      8,
+      25
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          49.454708099365234,
+          527.0,
+          252.07107543945312
+        ]
+      }
+    ],
+    "answerPages": [
+      17,
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          264.2764587402344
+        ]
+      }
+    ],
+    "answerPages": [
+      20,
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      9,
+      14,
+      19,
+      75
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 8,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          53.19575500488281,
+          527.0,
+          197.87344360351562
+        ]
+      }
+    ],
+    "answerPages": [
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 9,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          49.648128509521484,
+          527.0,
+          294.9490661621094
+        ]
+      }
+    ],
+    "answerPages": [
+      24,
+      25
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      25
+    ]
+  },
+  {
+    "paper": "fp1-2018-06-old",
+    "question": 10,
+    "maxScore": 13,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 32,
+        "rect": [
+          38.0,
+          49.659847259521484,
+          527.0,
+          343.6992492675781
+        ]
+      }
+    ],
+    "answerPages": [
+      26,
+      27
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      13,
+      512
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 1,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.44978332519531,
+          527.0,
+          244.4938507080078
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 2,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          52.76476287841797,
+          527.0,
+          183.1398468017578
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      2,
+      4,
+      9,
+      13,
+      17
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 3,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.44390106201172,
+          527.0,
+          323.2872619628906
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      9,
+      130,
+      280,
+      110870,
+      111020
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          384.96240234375
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      5,
+      8,
+      9,
+      10,
+      15,
+      17,
+      26,
+      27,
+      32,
+      40,
+      82
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          326.9433898925781
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      9,
+      15
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 6,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          348.97308349609375
+        ]
+      }
+    ],
+    "answerPages": [
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      10,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          530.9503784179688
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      11,
+      28
+    ]
+  },
+  {
+    "paper": "fp1-2018-01-old",
+    "question": 8,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          286.9622497558594
+        ]
+      }
+    ],
+    "answerPages": [
+      23,
+      24,
+      25
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      11,
+      27,
+      40,
+      256,
+      320,
+      1472,
+      1984,
+      2240,
+      2880,
+      3200
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 1,
+    "maxScore": 4,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.61842346191406,
+          527.0,
+          186.5719757080078
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 2,
+    "maxScore": 4,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.61842346191406,
+          527.0,
+          223.60243225097656
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      4,
+      9,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 3,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          53.9857177734375,
+          527.0,
+          151.4879913330078
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.63008117675781,
+          527.0,
+          254.0845489501953
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 5,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          55.638221740722656,
+          527.0,
+          239.43031311035156
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          56.39739990234375,
+          527.0,
+          269.7670593261719
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17,
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8,
+      49
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 7,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          51.42500305175781,
+          527.0,
+          264.69703674316406
+        ]
+      }
+    ],
+    "answerPages": [
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 8,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.30540084838867,
+          527.0,
+          335.9380187988281
+        ]
+      }
+    ],
+    "answerPages": [
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      10,
+      11,
+      18
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 9,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          62.637977600097656,
+          527.0,
+          397.9444274902344
+        ]
+      }
+    ],
+    "answerPages": [
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2017-06-old",
+    "question": 10,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.63008117675781,
+          527.0,
+          446.9224853515625
+        ]
+      }
+    ],
+    "answerPages": [
+      23
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.30540084838867,
+          527.0,
+          180.91810607910156
+        ]
+      }
+    ],
+    "answerPages": [
+      8,
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.61842346191406,
+          527.0,
+          374.90740966796875
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.30540084838867,
+          527.0,
+          166.91407775878906
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 4,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          55.879791259765625,
+          527.0,
+          295.5823059082031
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.63008117675781,
+          527.0,
+          353.91912841796875
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 6,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          56.720672607421875,
+          527.0,
+          235.7415313720703
+        ]
+      }
+    ],
+    "answerPages": [
+      15,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 7,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.61842346191406,
+          527.0,
+          443.90350341796875
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 8,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.30540084838867,
+          527.0,
+          418.9019470214844
+        ]
+      }
+    ],
+    "answerPages": [
+      18,
+      19
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2017-01-old",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          54.00198745727539,
+          527.0,
+          245.64198303222656
+        ]
+      }
+    ],
+    "answerPages": [
+      20,
+      21,
+      22
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 1,
+    "maxScore": 4,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          56.39739990234375,
+          527.0,
+          183.59693908691406
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      4
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 2,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.30540084838867,
+          527.0,
+          208.91407775878906
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 3,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.80012512207031,
+          527.0,
+          234.0780792236328
+        ]
+      }
+    ],
+    "answerPages": [
+      10,
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      7,
+      52
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 4,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.61842346191406,
+          527.0,
+          216.41810607910156
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 5,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          51.80000305175781,
+          527.0,
+          153.08790588378906
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 6,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.63008117675781,
+          527.0,
+          302.1152648925781
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 7,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.42500305175781,
+          527.0,
+          410.8898620605469
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5,
+      10,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 8,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.80000305175781,
+          527.0,
+          275.0559387207031
+        ]
+      }
+    ],
+    "answerPages": [
+      18
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 9,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.99342346191406,
+          527.0,
+          304.7933654785156
+        ]
+      }
+    ],
+    "answerPages": [
+      19,
+      20
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      9,
+      40
+    ]
+  },
+  {
+    "paper": "fp1-2016-06-old",
+    "question": 10,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          51.99342346191406,
+          527.0,
+          311.3182067871094
+        ]
+      }
+    ],
+    "answerPages": [
+      21
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      5,
+      6,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 1,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          292.9742126464844
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.47999572753906,
+          527.0,
+          208.7761993408203
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 3,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.66908264160156,
+          527.0,
+          390.9573974609375
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      3,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 4,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          51.47999572753906,
+          527.0,
+          436.764404296875
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          56.4521484375,
+          527.0,
+          301.6452941894531
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 6,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          264.96900939941406
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      9
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 7,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          51.47999572753906,
+          527.0,
+          194.7681427001953
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      9,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 8,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          330.9692687988281
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2016-01-old",
+    "question": 9,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          52.73699951171875,
+          527.0,
+          155.3928985595703
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 1,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          250.9621124267578
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 2,
+    "maxScore": 5,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          54.26958465576172,
+          527.0,
+          185.63600158691406
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      5
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.68092346191406,
+          527.0,
+          218.96900939941406
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 4,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          551.9542846679688
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      6,
+      36,
+      169
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          264.9799346923828
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 6,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          312.9659729003906
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          338.9623107910156
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 8,
+    "maxScore": 13,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          463.96240234375
+        ]
+      }
+    ],
+    "answerPages": [
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2015-06-old",
+    "question": 9,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          54.04498291015625,
+          527.0,
+          258.7011260986328
+        ]
+      }
+    ],
+    "answerPages": [
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      12,
+      17
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 1,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          139.77711486816406
+        ]
+      }
+    ],
+    "answerPages": [
+      5
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 2,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          55.694984436035156,
+          527.0,
+          208.8450469970703
+        ]
+      }
+    ],
+    "answerPages": [
+      6
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [
+      6,
+      6,
+      6
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          152.9650421142578
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 4,
+    "maxScore": 14,
+    "msTotals": [
+      14
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          313.9649963378906
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [
+      8,
+      8
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          334.9663391113281
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 6,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          404.9593200683594
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          288.9651794433594
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2015-01-old",
+    "question": 8,
+    "maxScore": 12,
+    "msTotals": [
+      12
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          308.9582214355469
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 1,
+    "maxScore": 4,
+    "msTotals": [
+      4
+    ],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          138.95802307128906
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      4
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 2,
+    "maxScore": 4,
+    "msTotals": [
+      4
+    ],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          222.9534454345703
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      4,
+      13
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [
+      6
+    ],
+    "prompt": [
+      {
+        "page": 6,
+        "rect": [
+          38.0,
+          51.47578430175781,
+          527.0,
+          262.7600860595703
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 4,
+    "maxScore": 10,
+    "msTotals": [
+      10
+    ],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          55.84466552734375,
+          527.0,
+          275.6409606933594
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 5,
+    "maxScore": 7,
+    "msTotals": [
+      7
+    ],
+    "prompt": [
+      {
+        "page": 12,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          257.9690704345703
+        ]
+      }
+    ],
+    "answerPages": [
+      12
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [
+      8
+    ],
+    "prompt": [
+      {
+        "page": 16,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          189.97303771972656
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      8,
+      27,
+      170
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 7,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 20,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          390.93304443359375
+        ]
+      }
+    ],
+    "answerPages": [
+      14
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 8,
+    "maxScore": 14,
+    "msTotals": [
+      14
+    ],
+    "prompt": [
+      {
+        "page": 24,
+        "rect": [
+          38.0,
+          51.68507385253906,
+          527.0,
+          264.9690704345703
+        ]
+      }
+    ],
+    "answerPages": [
+      15
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      14
+    ]
+  },
+  {
+    "paper": "fp1-2014-06-old",
+    "question": 9,
+    "maxScore": 11,
+    "msTotals": [
+      11
+    ],
+    "prompt": [
+      {
+        "page": 28,
+        "rect": [
+          38.0,
+          54.04498291015625,
+          527.0,
+          240.6969757080078
+        ]
+      }
+    ],
+    "answerPages": [
+      16,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      6,
+      11
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 1,
+    "maxScore": 10,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 2,
+        "rect": [
+          38.0,
+          55.9649658203125,
+          527.0,
+          253.0452423095703
+        ]
+      }
+    ],
+    "answerPages": [
+      6
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      3,
+      5,
+      10
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 2,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 4,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          317.9623107910156
+        ]
+      }
+    ],
+    "answerPages": [
+      7
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      25
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 3,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 8,
+        "rect": [
+          38.0,
+          58.381202697753906,
+          527.0,
+          365.6372985839844
+        ]
+      }
+    ],
+    "answerPages": [
+      8
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 4,
+    "maxScore": 9,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 10,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          180.9730987548828
+        ]
+      }
+    ],
+    "answerPages": [
+      9
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      7,
+      9,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 5,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 14,
+        "rect": [
+          38.0,
+          53.65228271484375,
+          527.0,
+          320.6452941894531
+        ]
+      }
+    ],
+    "answerPages": [
+      10
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      12
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 6,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 18,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          432.9622802734375
+        ]
+      }
+    ],
+    "answerPages": [
+      11
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      180
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 7,
+    "maxScore": 8,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 22,
+        "rect": [
+          38.0,
+          51.67341613769531,
+          527.0,
+          330.9623107910156
+        ]
+      }
+    ],
+    "answerPages": [
+      12,
+      16
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      8
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 8,
+    "maxScore": 12,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 26,
+        "rect": [
+          38.0,
+          51.36039352416992,
+          527.0,
+          380.97711181640625
+        ]
+      }
+    ],
+    "answerPages": [
+      13
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      12,
+      27
+    ]
+  },
+  {
+    "paper": "fp1-2014-01-old",
+    "question": 9,
+    "maxScore": 6,
+    "msTotals": [],
+    "prompt": [
+      {
+        "page": 30,
+        "rect": [
+          38.0,
+          54.04498291015625,
+          527.0,
+          128.7009506225586
+        ]
+      }
+    ],
+    "answerPages": [
+      14,
+      15,
+      17
+    ],
+    "scoreVerified": true,
+    "msScoreEvidence": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      25
+    ]
+  }
+]

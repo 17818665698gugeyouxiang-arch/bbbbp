@@ -1,0 +1,2492 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q2",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q3",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q4",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "二分法",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q6",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-06-new",
+      "questionId": "fp1-2026-06-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "二分法",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q5",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q8",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "questionId": "fp1-2026-01-new-q10",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q2",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q3",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "二分法",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q8",
+      "primary": "series",
+      "related": [
+        "induction"
+      ],
+      "tags": [
+        "求和公式",
+        "区间求和与参数",
+        "数学归纳法"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "questionId": "fp1-2025-06-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q2",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q3",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q5",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q8",
+      "primary": "induction",
+      "related": [
+        "matrices"
+      ],
+      "tags": [
+        "递推数列证明",
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "questionId": "fp1-2025-01-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q3",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q6",
+      "primary": "matrices",
+      "related": [
+        "induction"
+      ],
+      "tags": [
+        "线性变换与复合",
+        "面积变换",
+        "数学归纳法",
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q7",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "questionId": "fp1-2024-06-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "双曲线",
+        "法线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q3",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q4",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q6",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q7",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q8",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q9",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "questionId": "fp1-2024-01-new-q10",
+      "primary": "induction",
+      "related": [
+        "matrices"
+      ],
+      "tags": [
+        "整除证明",
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q1",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q3",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q4",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q6",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q7",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "二分法",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "questionId": "fp1-2023-06-new-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q2",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q3",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "模",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q4",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "questionId": "fp1-2023-01-new-q9",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q1",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "模"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q2",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q8",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "questionId": "fp1-2022-06-new-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q3",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q5",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q7",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q8",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "二分法",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "questionId": "fp1-2022-01-new-q9",
+      "primary": "series",
+      "related": [
+        "induction"
+      ],
+      "tags": [
+        "求和公式",
+        "区间求和与参数",
+        "数学归纳法"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q2",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q3",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q5",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "切线"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "questionId": "fp1-2021-10-new-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q7",
+      "primary": "series",
+      "related": [
+        "induction"
+      ],
+      "tags": [
+        "求和公式",
+        "区间求和与参数",
+        "数学归纳法"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "questionId": "fp1-2021-06-new-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "二分法",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q4",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q5",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q6",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "questionId": "fp1-2021-01-new-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q2",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q3",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q4",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q5",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q6",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q7",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "questionId": "fp1-2020-10-new-q8",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "整除证明",
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q1",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q3",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q5",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q6",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q7",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "questionId": "fp1-2020-01-new-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q2",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q3",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q4",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q5",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "questionId": "fp1-2019-06-new-q9",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q1",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q3",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q4",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "二分法",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q5",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "切线"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q8",
+      "primary": "induction",
+      "related": [
+        "matrices"
+      ],
+      "tags": [
+        "递推数列证明",
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "questionId": "fp1-2019-01-old-q9",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q1",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q2",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q3",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q4",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q6",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q7",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q8",
+      "primary": "induction",
+      "related": [
+        "matrices"
+      ],
+      "tags": [
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q9",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "questionId": "fp1-2018-06-old-q10",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q3",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q4",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "双曲线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "questionId": "fp1-2018-01-old-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q1",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q2",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q3",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q5",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "二分法",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q6",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q9",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "questionId": "fp1-2017-06-old-q10",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q2",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q3",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q4",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q6",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "questionId": "fp1-2017-01-old-q9",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "整除证明",
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q1",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q2",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q3",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q4",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q8",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q9",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "questionId": "fp1-2016-06-old-q10",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "递推数列证明",
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q1",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q2",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q3",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q4",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q5",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "questionId": "fp1-2016-01-old-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q1",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q2",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q3",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q5",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "二分法",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q6",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "辐角",
+        "模",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q8",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "questionId": "fp1-2015-06-old-q9",
+      "primary": "induction",
+      "related": [
+        "matrices",
+        "series"
+      ],
+      "tags": [
+        "求和恒等式证明",
+        "矩阵幂证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q1",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q2",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q3",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q4",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "法线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q5",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q6",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q7",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "questionId": "fp1-2015-01-old-q8",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明",
+        "递推数列证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q1",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q2",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "共轭根与多项式",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q4",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q5",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q6",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q7",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "双曲线",
+        "法线"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "questionId": "fp1-2014-06-old-q9",
+      "primary": "induction",
+      "related": [
+        "series"
+      ],
+      "tags": [
+        "整除证明",
+        "求和恒等式证明"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q1",
+      "primary": "numerical",
+      "related": [],
+      "tags": [
+        "Newton–Raphson",
+        "线性插值",
+        "根的区间与精度"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q2",
+      "primary": "quadratic-roots",
+      "related": [],
+      "tags": [
+        "根的和与积",
+        "对称式与根的变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q3",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "面积变换"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q4",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "Argand 图",
+        "共轭根与多项式"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q5",
+      "primary": "series",
+      "related": [],
+      "tags": [
+        "求和公式",
+        "区间求和与参数"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q6",
+      "primary": "matrices",
+      "related": [],
+      "tags": [
+        "行列式与逆矩阵",
+        "线性变换与复合"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q7",
+      "primary": "complex",
+      "related": [],
+      "tags": [
+        "辐角",
+        "复数运算"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q8",
+      "primary": "coordinates",
+      "related": [],
+      "tags": [
+        "抛物线",
+        "切线",
+        "焦点与准线"
+      ]
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "questionId": "fp1-2014-01-old-q9",
+      "primary": "induction",
+      "related": [],
+      "tags": [
+        "整除证明"
+      ]
+    }
+  ]
+}

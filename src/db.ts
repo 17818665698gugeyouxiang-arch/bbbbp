@@ -3,6 +3,7 @@ import JSZip from 'jszip';
 import {accountDatabaseName} from './site-config';
 import {type CriticalAttempt, type CriticalQuestion,type Distribution,type CriticalRule,generateCritical,checkCritical,validCriticalAttempt} from './critical';
 import { type CSAnswer,type Session, type Mistake, type Entry, type Photo, type Paper, type Grade, validScore, uid, legacyTarget } from './model';
+import {type TopicAttempt,validTopicAttempt} from './topics';
 
 export class StudyDB extends Dexie {
   sessions!: EntityTable<Session, 'id'>;
@@ -13,7 +14,8 @@ export class StudyDB extends Dexie {
   criticalAttempts!: EntityTable<CriticalAttempt,'id'>;
   csAnswers!:EntityTable<CSAnswer,'id'>;
   csAnswerPhotos!:EntityTable<Photo,'id'>;
-  constructor(name='bpho-study-v1') { super(name); this.version(1).stores({ sessions:'id,paperId,startedAt', mistakes:'id,paperId,questionId,updatedAt', entries:'id,mistakeId,sessionId,createdAt', photos:'id,entryId' }); this.version(2).stores({syncMeta:'id'}); this.version(3).stores({criticalAttempts:'id,startedAt,updatedAt'});this.version(4).stores({csAnswers:'id,sessionId,questionId,updatedAt',csAnswerPhotos:'id,entryId'}); }
+  topicAttempts!:EntityTable<TopicAttempt,'id'>;
+  constructor(name='bpho-study-v1') { super(name); this.version(1).stores({ sessions:'id,paperId,startedAt', mistakes:'id,paperId,questionId,updatedAt', entries:'id,mistakeId,sessionId,createdAt', photos:'id,entryId' }); this.version(2).stores({syncMeta:'id'}); this.version(3).stores({criticalAttempts:'id,startedAt,updatedAt'});this.version(4).stores({csAnswers:'id,sessionId,questionId,updatedAt',csAnswerPhotos:'id,entryId'});this.version(5).stores({topicAttempts:'id,startedAt,updatedAt'}); }
 }
 export const db = new StudyDB(accountDatabaseName());
 export async function startCritical(distribution:Distribution,rule:CriticalRule,store=db,settings:Partial<Pick<CriticalQuestion,'tail'|'sig'>>={}){
@@ -56,7 +58,8 @@ export function gradingEntryId(sessionId:string, questionId:string, kind:'work'|
 export async function startSession(paper: Paper, selected: string[], store = db) {
   if (paper.legacy || !paper.ready || selected.length !== paper.choose || new Set(selected).size !== selected.length || selected.some(id=>!paper.questions.some(q=>q.id===id))) throw new Error('请按本试卷的要求选择题目。');
   if(paper.mutuallyExclusive?.some(group=>selected.filter(id=>group.includes(id)).length>1)) throw new Error('本卷第 5 题与第 6 题不能同时选择。');
-  return store.transaction('rw',store.sessions,async()=>{
+  return store.transaction('rw',[store.sessions,store.topicAttempts],async()=>{
+    if((await store.topicAttempts.toArray()).some(a=>!a.submittedAt))throw Error('已有未交卷专项，请先继续并交卷。');
     const all=await store.sessions.toArray();
     if(all.some(s=>!s.submittedAt&&!s.archived)) throw new Error('已有进行中的训练，请先继续并交卷。');
     const session:Session={id:uid(),paperId:paper.id,questionIds:paper.questions.filter(q=>selected.includes(q.id)).map(q=>q.id),startedAt:Date.now(),position:0,markingPosition:0,done:[],grades:{},updatedAt:Date.now()};
@@ -104,7 +107,7 @@ export async function addPhotos(entryId:string,files:File[],store=db) {
   });
 }
 export async function exportBackup(store=db) {
-  const data=await store.transaction('r',store.tables,async()=>({sessions:await store.sessions.toArray(),mistakes:await store.mistakes.toArray(),entries:await store.entries.toArray(),photos:await store.photos.toArray(),criticalAttempts:await store.criticalAttempts.toArray(),csAnswers:await store.csAnswers.toArray(),csAnswerPhotos:await store.csAnswerPhotos.toArray()}));
+  const data=await store.transaction('r',store.tables,async()=>({sessions:await store.sessions.toArray(),mistakes:await store.mistakes.toArray(),entries:await store.entries.toArray(),photos:await store.photos.toArray(),criticalAttempts:await store.criticalAttempts.toArray(),csAnswers:await store.csAnswers.toArray(),csAnswerPhotos:await store.csAnswerPhotos.toArray(),topicAttempts:await store.topicAttempts.toArray()}));
   const zip=new JSZip();
   const photos=[];
   for(const {blob,...p} of data.photos) {zip.file(`photos/${p.id}`,await blob.arrayBuffer());photos.push({...p,mime:blob.type,path:`photos/${p.id}`});}
@@ -121,14 +124,16 @@ export async function restoreBackup(file: Blob,papers:Paper[],store=db) {
   const b=JSON.parse(await manifest.async('text'));
   assert(b.format==='bpho-study'&&b.version===1);
   for(const key of ['sessions','mistakes','entries','photos']) assert(Array.isArray(b[key])&&b[key].length<100000);
-  b.criticalAttempts??=[];b.csAnswers??=[];b.csAnswerPhotos??=[];
+  b.criticalAttempts??=[];b.csAnswers??=[];b.csAnswerPhotos??=[];b.topicAttempts??=[];
+  assert(Array.isArray(b.topicAttempts)&&b.topicAttempts.length<100000&&b.topicAttempts.every((a:TopicAttempt)=>validTopicAttempt(a,papers)));
   assert(Array.isArray(b.csAnswers)&&b.csAnswers.length<100000&&Array.isArray(b.csAnswerPhotos)&&b.csAnswerPhotos.length<100000);
   assert(Array.isArray(b.criticalAttempts)&&b.criticalAttempts.length<100000&&b.criticalAttempts.every(validCriticalAttempt));
   // Keep old whole-Section backups readable without inventing per-letter scores.
   for(const s of b.sessions as Session[]) {if(Array.isArray(s?.questionIds)){const target=legacyTarget(s.paperId,s.questionIds,papers);if(target){s.paperId=target.id;s.archived=true;}}}
   for(const m of b.mistakes as Mistake[]) {const target=legacyTarget(m?.paperId,[m?.questionId],papers);if(target)m.paperId=target.id;}
   const unique=(rows:{id:string}[])=>{const ids=rows.map(r=>r.id);assert(ids.every(str)&&new Set(ids).size===ids.length);};
-  [b.sessions,b.mistakes,b.entries,b.photos,b.criticalAttempts,b.csAnswers,b.csAnswerPhotos].forEach(unique);
+  [b.sessions,b.mistakes,b.entries,b.photos,b.criticalAttempts,b.csAnswers,b.csAnswerPhotos,b.topicAttempts].forEach(unique);
+  unique([...b.sessions,...b.topicAttempts]);
   for(const s of b.sessions as Session[]) {
     const paper=papers.find(p=>p.id===s.paperId); assert(paper&&time(s.startedAt)&&time(s.updatedAt));
     assert(s.archived===undefined||typeof s.archived==='boolean');
@@ -141,7 +146,7 @@ export async function restoreBackup(file: Blob,papers:Paper[],store=db) {
     for(const [id,g] of Object.entries(s.grades)) assert(s.questionIds.includes(id)&&typeof g.score==='string'&&g.score.length<100&&typeof g.wrong==='boolean'&&typeof g.note==='string');
     if(s.completedAt) assert(s.questionIds.every(id=>validScore(s.grades[id]?.score??'',paper.questions.find(q=>q.id===id)!.maxScore)));
   }
-  const mids=new Set<string>(b.mistakes.map((m:Mistake)=>m.id)), eids=new Set<string>(b.entries.map((e:Entry)=>e.id)), sids=new Set<string>(b.sessions.map((s:Session)=>s.id));
+  const mids=new Set<string>(b.mistakes.map((m:Mistake)=>m.id)), eids=new Set<string>(b.entries.map((e:Entry)=>e.id)), sids=new Set<string>([...b.sessions,...b.topicAttempts].map((s:Session|TopicAttempt)=>s.id));
   for(const m of b.mistakes as Mistake[]) assert(m.id===mistakeId(m.questionId)&&papers.some(p=>p.id===m.paperId&&p.questions.some(q=>q.id===m.questionId))&&Array.isArray(m.sessionIds)&&m.sessionIds.every(id=>sids.has(id))&&typeof m.mastered==='boolean'&&time(m.createdAt)&&time(m.updatedAt));
   for(const e of b.entries as Entry[]) assert(mids.has(e.mistakeId)&&(!e.sessionId||sids.has(e.sessionId))&&['work','correction'].includes(e.kind)&&typeof e.note==='string'&&time(e.createdAt)&&time(e.updatedAt));
   for(const a of b.csAnswers as CSAnswer[]){const session=(b.sessions as Session[]).find(s=>s.id===a.sessionId),paper=papers.find(p=>p.id===session?.paperId),q=paper?.questions.find(q=>q.id===a.questionId);assert(paper?.subject==='cs'&&session?.questionIds.includes(a.questionId)&&q?.parts?.includes(a.partId)&&typeof a.text==='string'&&a.text.length<=200000&&time(a.updatedAt));}
@@ -150,6 +155,7 @@ export async function restoreBackup(file: Blob,papers:Paper[],store=db) {
   for(const p of b.photos) { assert(eids.has(p.entryId)&&str(p.name)&&/^image\/(jpeg|png|webp|gif|avif|bmp)$/.test(p.mime)&&p.path===`photos/${p.id}`&&[0,90,180,270].includes(p.rotation)&&time(p.createdAt)); const z=zip.file(p.path);assert(z);const bytes=await z.async('uint8array');total+=bytes.byteLength;assert(total<1024*1024*1024);photos.push({id:p.id,entryId:p.entryId,name:p.name,rotation:p.rotation,createdAt:p.createdAt,blob:new Blob([bytes as BlobPart],{type:p.mime})}); }
   const csPhotos:Photo[]=[];for(const p of b.csAnswerPhotos){assert(aids.has(p.entryId)&&str(p.name)&&/^image\/(jpeg|png|webp|gif|avif|bmp)$/.test(p.mime)&&p.path===`answer-photos/${p.id}`&&[0,90,180,270].includes(p.rotation)&&time(p.createdAt));const z=zip.file(p.path);assert(z);const bytes=await z.async('uint8array');total+=bytes.byteLength;assert(total<1024*1024*1024);csPhotos.push({id:p.id,entryId:p.entryId,name:p.name,rotation:p.rotation,createdAt:p.createdAt,blob:new Blob([bytes as BlobPart],{type:p.mime})});}
   await store.transaction('rw',store.tables,async()=>{
+    for(const a of b.topicAttempts as TopicAttempt[]){const old=await store.topicAttempts.get(a.id);if(!old||a.updatedAt>old.updatedAt)await store.topicAttempts.put(a);}
     for(const a of b.csAnswers as CSAnswer[]){const old=await store.csAnswers.get(a.id);if(!old||a.updatedAt>old.updatedAt)await store.csAnswers.put(a);}
     for(const p of csPhotos)if(!await store.csAnswerPhotos.get(p.id))await store.csAnswerPhotos.add(p);
     for(const s of b.sessions as Session[]) { const old=await store.sessions.get(s.id);if(!old||s.updatedAt>old.updatedAt)await store.sessions.put(s); }
@@ -158,7 +164,7 @@ export async function restoreBackup(file: Blob,papers:Paper[],store=db) {
     for(const p of photos) if(!await store.photos.get(p.id))await store.photos.add(p);
     for(const a of b.criticalAttempts as CriticalAttempt[]){const old=await store.criticalAttempts.get(a.id);if(!old||!old.submittedAt&&(a.submittedAt||a.updatedAt>old.updatedAt))await store.criticalAttempts.put(a);}
     assert((await store.criticalAttempts.toArray()).filter(a=>!a.submittedAt).length<=1);
-    const active=(await store.sessions.toArray()).filter(s=>!s.submittedAt&&!s.archived);assert(active.length<=1);
+    const active=(await store.sessions.toArray()).filter(s=>!s.submittedAt&&!s.archived);assert(active.length+(await store.topicAttempts.toArray()).filter(a=>!a.submittedAt).length<=1);
   });
-  return {sessions:b.sessions.length,photos:photos.length,criticalAttempts:b.criticalAttempts.length};
+  return {sessions:b.sessions.length,photos:photos.length,criticalAttempts:b.criticalAttempts.length,topicAttempts:b.topicAttempts.length};
 }

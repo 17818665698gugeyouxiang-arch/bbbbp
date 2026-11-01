@@ -1,7 +1,7 @@
-export const tableNames=['sessions','mistakes','entries','photos','criticalAttempts','csAnswers','csAnswerPhotos'] as const;
+export const tableNames=['sessions','mistakes','entries','photos','criticalAttempts','csAnswers','csAnswerPhotos','topicAttempts'] as const;
 export type Row={id:string;[key:string]:any};
 export type Snapshot=Record<typeof tableNames[number],Row[]>;
-export const emptySnapshot=():Snapshot=>({sessions:[],mistakes:[],entries:[],photos:[],criticalAttempts:[],csAnswers:[],csAnswerPhotos:[]});
+export const emptySnapshot=():Snapshot=>({sessions:[],mistakes:[],entries:[],photos:[],criticalAttempts:[],csAnswers:[],csAnswerPhotos:[],topicAttempts:[]});
 export const equal=(a:unknown,b:unknown):boolean=>{
  if(a===b)return true;if(a===undefined||b===undefined||a===null||b===null)return false;
  if(typeof a!=='object'||typeof b!=='object')return false;

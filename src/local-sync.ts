@@ -7,7 +7,7 @@ import {cloudJson,cloudPhoto,cloudUser} from './cloud';
 import {retryDelay,sameRevision} from './sync-policy';
 
 export type SyncStatus={state:'working'|'saved'|'offline'|'conflict';message:string;at?:number;conflicts?:string[]};
-type Server={serverId:string;revision:number;data:Snapshot};
+type Server={capabilities?:string[];serverId:string;revision:number;data:Snapshot};
 type Baseline={serverId:string;data:Snapshot};
 const photoHashes=new Map<string,string>();
 let controller:{tick:(required?:boolean,choice?:'local'|'remote')=>Promise<void>}|undefined;
@@ -68,6 +68,7 @@ export function startLocalSync(onStatus:(status:SyncStatus)=>void){
   let baseline=(await db.syncMeta.get('baseline'))?.value as Baseline|undefined;
   const head=cloudEnabled&&cached?await jsonFetch('/api/study/head'):null;
   const remote:Server=sameRevision(cached,head)?cached!:await jsonFetch('/api/study');
+  if(!remote.capabilities?.includes('fp1-topics-v1'))throw Error('同步服务需要升级，请刷新网站或重启本机服务。浏览器记录已保留。');
   remote.data={...emptySnapshot(),...remote.data};
   cached=remote;
   if(stopped)return;
