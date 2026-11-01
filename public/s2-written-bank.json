@@ -1,0 +1,5532 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "binomial",
+      "title": "二项分布与建模假设"
+    },
+    {
+      "id": "poisson",
+      "title": "泊松分布与建模假设"
+    },
+    {
+      "id": "approximation",
+      "title": "分布近似与适用条件"
+    },
+    {
+      "id": "continuous",
+      "title": "连续型随机变量与分布解释"
+    },
+    {
+      "id": "sampling",
+      "title": "抽样方法与评价"
+    },
+    {
+      "id": "testing",
+      "title": "假设检验与情境结论"
+    },
+    {
+      "id": "other",
+      "title": "其他统计概念与解释"
+    }
+  ],
+  "items": [
+    {
+      "id": "s2-written-2015-06-6a",
+      "sequence": "S2-W001",
+      "paperId": "s2-2015-06",
+      "year": 2015,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a) Write down a suitable model for the distribution of X. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6a/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6a/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6a/answer/01.webp",
+          "page": 16
+        },
+        {
+          "src": "/s2-written/s2-written-2015-06-6a/answer/02.webp",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2015-06-6b",
+      "sequence": "S2-W002",
+      "paperId": "s2-2015-06",
+      "year": 2015,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(b)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(b) State an assumption that has been made for the model in part (a) to be suitable. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6b/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6b/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2015-06-6b/answer/01.webp",
+          "page": 16
+        },
+        {
+          "src": "/s2-written/s2-written-2015-06-6b/answer/02.webp",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-01-1b",
+      "sequence": "S2-W003",
+      "paperId": "s2-2016-01",
+      "year": 2016,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(b) Write down a suitable distribution to model the number of customers in this sample that complete the survey. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1b/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2016-01-1b/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-10-3a",
+      "sequence": "S2-W004",
+      "paperId": "s2-2016-10",
+      "year": 2016,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t Write down the distribution of the random variable X (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-10-3a/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-10-3a/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-10-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2016-10-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-06-2a-i",
+      "sequence": "S2-W005",
+      "paperId": "s2-2017-06",
+      "year": 2017,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(a)(i)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a) (i) Write down a suitable distribution to model the number of prizes found in a box.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-i/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-i/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-i/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-i/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-06-2a-ii",
+      "sequence": "S2-W006",
+      "paperId": "s2-2017-06",
+      "year": 2017,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(a)(ii)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(ii) Write down one assumption required for the model. (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-ii/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-ii/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-ii/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2017-06-2a-ii/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-10-2b-ii",
+      "sequence": "S2-W007",
+      "paperId": "s2-2018-10",
+      "year": 2018,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 2 题(b)(ii)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(ii) Write down the distribution for the number of customers who take sugar from a random sample of n customers ordering hot drinks. (1)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-10-2b-ii/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-10-2b-ii/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-10-2b-ii/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2018-10-2b-ii/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-01-1a",
+      "sequence": "S2-W008",
+      "paperId": "s2-2019-01",
+      "year": 2019,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t State one assumption required to model X as a binomial distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-01-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-01-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-01-1a/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2019-01-1a/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-06-6a",
+      "sequence": "S2-W009",
+      "paperId": "s2-2019-06",
+      "year": 2019,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(a) ExpIain what assumpuons need tO be made tO model with a binomial distribution the number Of clay pots in a batch that crack when fired. ( 2 )",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-06-6a/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-06-6a/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-06-6a/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2019-06-6a/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-01-1a",
+      "sequence": "S2-W010",
+      "paperId": "s2-2021-01",
+      "year": 2021,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t Write down a suitable model for the distribution of X. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1a/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2021-01-1a/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-01-1b",
+      "sequence": "S2-W011",
+      "paperId": "s2-2021-01",
+      "year": 2021,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(b)\t State an assumption that has been made for the model in part (a). (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-01-1b/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2021-01-1b/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-5a",
+      "sequence": "S2-W012",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t Write down a suitable model for the distribution of the number of applicants identified as colour blind from a total of n applicants. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5a/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5a/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5a/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-5a/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-5b",
+      "sequence": "S2-W013",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(b)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(b)\tState one assumption necessary for this distribution to be a suitable model of this situation. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5b/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5b/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5b/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-5b/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-01-3a",
+      "sequence": "S2-W014",
+      "paperId": "s2-2024-01",
+      "year": 2024,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(a)\t Give two assumptions, in context, that Rowan needs to make for a binomial distribution to be a suitable model for the number of these type A vacuum tubes that shatter when exposed to alternating high and low temperatures. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3a/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3a/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-01-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-10-2a",
+      "sequence": "S2-W015",
+      "paperId": "s2-2024-10",
+      "year": 2024,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 2 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t State the distribution of X (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-10-2a/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-10-2a/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-10-2a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2024-10-2a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-7a",
+      "sequence": "S2-W016",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 7 题(a)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(a)\t State a suitable model for the distribution of X (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7a/context/01.webp",
+          "page": 24
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7a/prompt/01.webp",
+          "page": 24
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7a/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-7a/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-7b",
+      "sequence": "S2-W017",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 7 题(b)",
+      "topic": "binomial",
+      "marks": 1,
+      "summary": "(b)\t State a necessary assumption for the model in part (a) to be valid. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7b/context/01.webp",
+          "page": 24
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7b/prompt/01.webp",
+          "page": 24
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-7b/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-7b/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-1c",
+      "sequence": "S2-W018",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(c)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(c)\t Write down a suitable distribution to model the number of customers in this sample that were satisfied with their download speed. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1c/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1c/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1c/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-1c/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-4a",
+      "sequence": "S2-W019",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 4 题(a)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(a)\t State, in context, two conditions necessary for a binomial distribution to be a suitable model for the number of faulty electrical components in the sample. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4a/context/01.webp",
+          "page": 5
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4a/prompt/01.webp",
+          "page": 5
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4a/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4a/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-5c",
+      "sequence": "S2-W020",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(c)",
+      "topic": "binomial",
+      "marks": 2,
+      "summary": "(c)\t Using your answer to part (b), suggest the more likely value for the mean number of times Paula successfully completes an easy trick each day. Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-5c/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-5c/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-5c/answer/01.webp",
+          "page": 12
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-5c/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-06-1b",
+      "sequence": "S2-W021",
+      "paperId": "s2-2019-06",
+      "year": 2019,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "poisson",
+      "marks": 2,
+      "summary": "(b) State tWO assumptions that need tO be made for a Poisson model tO be suitable in thiS case. ( 2 )",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-06-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-06-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-06-1b/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2019-06-1b/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2020-10-4a",
+      "sequence": "S2-W022",
+      "paperId": "s2-2020-10",
+      "year": 2020,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 4 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t Give an assumption, not already stated, that is required for the number of Common Spotted-orchids per m2 of the peat bog to follow a Poisson distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2020-10-4a/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2020-10-4a/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2020-10-4a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2020-10-4a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-06-2c",
+      "sequence": "S2-W023",
+      "paperId": "s2-2021-06",
+      "year": 2021,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(c)",
+      "topic": "poisson",
+      "marks": 2,
+      "summary": "(c)\t Write down the probability that the next rug that Luis makes, which is 4 m2 in size, will have exactly 5 faults.  Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-06-2c/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-06-2c/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-06-2c/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2021-06-2c/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-3a",
+      "sequence": "S2-W024",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t Give a reason why a Poisson distribution could be used to model the number of breakdowns. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3a/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3a/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-01-1a",
+      "sequence": "S2-W025",
+      "paperId": "s2-2023-01",
+      "year": 2023,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable distribution for modelling the number of sales of pairs of shoes made per hour on a weekday. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-01-1a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-01-1b",
+      "sequence": "S2-W026",
+      "paperId": "s2-2023-01",
+      "year": 2023,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(b)\tState one assumption necessary for this distribution to be a suitable model of this situation. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-01-1b/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-01-1b/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-10-5a",
+      "sequence": "S2-W027",
+      "paperId": "s2-2023-10",
+      "year": 2023,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 5 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t State one assumption necessary, in order for a Poisson distribution to be used to model the number of complaints received by the supermarket. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-10-5a/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-10-5a/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-10-5a/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2023-10-5a/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-01-1b",
+      "sequence": "S2-W028",
+      "paperId": "s2-2024-01",
+      "year": 2024,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(b)\t Explain why the results in part (a) suggest that a Poisson distribution may be a suitable model for the number of complaints per day. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-01-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-01-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-01-1b/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2024-01-1b/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-06-1d",
+      "sequence": "S2-W029",
+      "paperId": "s2-2024-06",
+      "year": 2024,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(d)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(d)\t Explain why the Poisson distribution is unlikely to be valid for the number of tyres sold during a 10‑minute period. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-06-1d/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-06-1d/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-06-1d/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2024-06-1d/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-10-3a",
+      "sequence": "S2-W030",
+      "paperId": "s2-2024-10",
+      "year": 2024,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable distribution to model the number of customers that enter this shop in a 10-minute interval on Monday afternoons. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3a/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3a/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-10-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-10-3b",
+      "sequence": "S2-W031",
+      "paperId": "s2-2024-10",
+      "year": 2024,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "poisson",
+      "marks": 2,
+      "summary": "(b)\t State two assumptions necessary for this distribution to be a suitable model of this situation. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3b/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3b/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-10-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-2a",
+      "sequence": "S2-W032",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t State a suitable distribution to model the number of customers that enter this shop in a 30‑minute interval on Friday evenings. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2a/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2a/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-2a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-2b",
+      "sequence": "S2-W033",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(b)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(b)\t State a necessary assumption for the model in part (a) to be valid. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2b/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2b/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2b/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-2b/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-3a",
+      "sequence": "S2-W034",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable distribution to model the number of cars that pass this junction in a 2-minute interval on weekday mornings. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3a/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3a/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3a/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-3a/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-3b",
+      "sequence": "S2-W035",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "poisson",
+      "marks": 1,
+      "summary": "(b)\t State an assumption necessary for this distribution to be a suitable model of this situation. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3b/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3b/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3b/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-3b/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-06-1a",
+      "sequence": "S2-W036",
+      "paperId": "s2-2014-06",
+      "year": 2014,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "1. (a) State the conditions under which the Poisson distribution may be used as an approximation to the binomial distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-06-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-06-1a/answer/01.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-01-3d",
+      "sequence": "S2-W037",
+      "paperId": "s2-2016-01",
+      "year": 2016,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(d)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(d) Give a reason why the Poisson approximation is a more suitable estimate of P(Y - 1) (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-01-3d/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-01-3d/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-01-3d/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2016-01-3d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-10-6c-i",
+      "sequence": "S2-W038",
+      "paperId": "s2-2016-10",
+      "year": 2016,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 6 题(c)(i)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(c)\t (i)\t Justify the use of a normal approximation.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-10-6c-i/context/01.webp",
+          "page": 22
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-10-6c-i/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-10-6c-i/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2016-10-6c-i/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-01-3a",
+      "sequence": "S2-W039",
+      "paperId": "s2-2017-01",
+      "year": 2017,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "3. (a) State the condition under which the normal distribution may be used as an approximation to the Poisson distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-01-3a/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-01-3a/answer/01.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-01-6i-a",
+      "sequence": "S2-W040",
+      "paperId": "s2-2019-01",
+      "year": 2019,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(i)(a)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "6.\t (i)\t (a)\t State the conditions under which the Poisson distribution may be used as an approximation to the binomial distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6i-a/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6i-a/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2019-01-6i-a/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2020-01-1d-i",
+      "sequence": "S2-W041",
+      "paperId": "s2-2020-01",
+      "year": 2020,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(d)(i)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(d)\t (i)\t Explain why the distribution of the number of cars returned in good condition would not be well approximated by the Poisson distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2020-01-1d-i/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2020-01-1d-i/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2020-01-1d-i/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2020-01-1d-i/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-5d",
+      "sequence": "S2-W042",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(d)",
+      "topic": "approximation",
+      "marks": 2,
+      "summary": "(d)\tExplain why the approximation that you used in part (c) is appropriate. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5d/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5d/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-5d/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-5d/answer/02.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-5d/answer/03.webp",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-1b-ii",
+      "sequence": "S2-W043",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(b)(ii)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(ii)\t Explain why a normal approximation is suitable in part (b)(i) (1)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-1b-ii/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-1b-ii/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-1b-ii/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-1b-ii/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-4a",
+      "sequence": "S2-W044",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(a)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "4.\t (a)\t Given n is large, state a condition for which the binomial distribution B(n, p) can be reasonably approximated by a Poisson distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-4a/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-4a/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-4a/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-01-1d",
+      "sequence": "S2-W045",
+      "paperId": "s2-2025-01",
+      "year": 2025,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(d)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(d)\t State the conditions under which the Poisson distribution may be used as an approximation to the binomial distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-01-1d/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-01-1d/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-01-1d/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2025-01-1d/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-3c-ii",
+      "sequence": "S2-W046",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(c)(ii)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(ii)\t Justify why a Poisson approximation is suitable in this case. (4)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-3c-ii/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-3c-ii/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-3c-ii/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-3c-ii/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-a-3d",
+      "sequence": "S2-W047",
+      "paperId": "s2-2025-10-a",
+      "year": 2025,
+      "month": 10,
+      "variant": "A",
+      "part": "第 3 题(d)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(d)\t Give a reason why the Poisson approximation is a more suitable estimate of P(Y  1) (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-3d/context/01.webp",
+          "page": 3
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-3d/prompt/01.webp",
+          "page": 3
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-3d/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-a-3d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-3e",
+      "sequence": "S2-W048",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 3 题(e)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(e)\t Explain why the Poisson approximation in part (d) is suitable. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3e/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3e/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3e/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3e/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-6c",
+      "sequence": "S2-W049",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(c)",
+      "topic": "approximation",
+      "marks": 1,
+      "summary": "(c)\t State whether or not the Poisson approximation is reasonable in this case. Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-6c/context/01.webp",
+          "page": 20
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-6c/prompt/01.webp",
+          "page": 20
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-6c/answer/01.webp",
+          "page": 14
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-6c/answer/02.webp",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-06-6d",
+      "sequence": "S2-W050",
+      "paperId": "s2-2014-06",
+      "year": 2014,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(d)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(d) Describe the skewness of this distribution.  Justify your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-06-6d/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-06-6d/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-06-6d/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2014-06-6d/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-01-6e",
+      "sequence": "S2-W051",
+      "paperId": "s2-2016-01",
+      "year": 2016,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e) use your answer to part (d) to describe the skewness of the distribution. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-01-6e/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-01-6e/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-01-6e/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2016-01-6e/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-06-4a",
+      "sequence": "S2-W052",
+      "paperId": "s2-2016-06",
+      "year": 2016,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(a)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(a) Write down the name of this distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-06-4a/context/01.webp",
+          "page": 7
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-06-4a/prompt/01.webp",
+          "page": 7
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-06-4a/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-06-6d",
+      "sequence": "S2-W053",
+      "paperId": "s2-2016-06",
+      "year": 2016,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(d)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(d) State whether the upper quartile of X is greater than 1.5, equal to 1.5, or less than 1.5 Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-06-6d/context/01.webp",
+          "page": 11
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-06-6d/prompt/01.webp",
+          "page": 11
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-06-6d/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2016-06-6d/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-10-5a",
+      "sequence": "S2-W054",
+      "paperId": "s2-2016-10",
+      "year": 2016,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 5 题(a)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(a)\t Write down the distribution of L (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-10-5a/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-10-5a/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-10-5a/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2016-10-5a/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-01-4c",
+      "sequence": "S2-W055",
+      "paperId": "s2-2017-01",
+      "year": 2017,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 4 题(c)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(c) Give a reason why the random variable X might be unsuitable as a model for the time, in thousands of hours, that these electrical components will last. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-01-4c/context/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2017-01-4c/context/02.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-01-4c/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-01-4c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2017-01-4c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-4c",
+      "sequence": "S2-W056",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(c)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(c) Write down the distribution of 12 σ (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4c/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4c/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4c/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-6e",
+      "sequence": "S2-W057",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 6 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e) Comment on the skewness of the distribution, justifying your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-6e/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-6e/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-6e/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2018-06-6e/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-10-3e",
+      "sequence": "S2-W058",
+      "paperId": "s2-2018-10",
+      "year": 2018,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e) Describe the skewness of the distribution of Y giving a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-10-3e/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-10-3e/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-10-3e/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2018-10-3e/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-10-6a",
+      "sequence": "S2-W059",
+      "paperId": "s2-2018-10",
+      "year": 2018,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(a) Explain why a = –2 and b = 2 (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-10-6a/context/01.webp",
+          "page": 20
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-10-6a/prompt/01.webp",
+          "page": 20
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-10-6a/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2018-10-6a/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-01-7b-ii",
+      "sequence": "S2-W060",
+      "paperId": "s2-2019-01",
+      "year": 2019,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 7 题(b)(ii)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(ii)\t Explain why the mode of  X = 0 (3)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-01-7b-ii/context/01.webp",
+          "page": 20
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-01-7b-ii/prompt/01.webp",
+          "page": 20
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-01-7b-ii/answer/01.webp",
+          "page": 12
+        },
+        {
+          "src": "/s2-written/s2-written-2019-01-7b-ii/answer/02.webp",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-06-5f",
+      "sequence": "S2-W061",
+      "paperId": "s2-2019-06",
+      "year": 2019,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(f)",
+      "topic": "continuous",
+      "marks": 3,
+      "summary": "(f) State, giving a reason ， whether the median ofXis less than or greater than 1 ( 3 )",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-06-5f/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-06-5f/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-06-5f/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2019-06-5f/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-06-5a-i",
+      "sequence": "S2-W062",
+      "paperId": "s2-2021-06",
+      "year": 2021,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(a)(i)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(a)\t Explain why (i)  α = 1",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-i/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-i/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-i/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-i/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-06-5a-ii",
+      "sequence": "S2-W063",
+      "paperId": "s2-2021-06",
+      "year": 2021,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(a)(ii)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(ii)  β = –  1 (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-ii/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-ii/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-ii/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2021-06-5a-ii/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-10-2ii-a",
+      "sequence": "S2-W064",
+      "paperId": "s2-2021-10",
+      "year": 2021,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 2 题(ii)(a)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(a)\t Write down the distribution of S (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-10-2ii-a/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-10-2ii-a/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-10-2ii-a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2021-10-2ii-a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-4e",
+      "sequence": "S2-W065",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 4 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e)\t Describe the skewness of the distribution, giving a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-4e/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-4e/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-4e/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-4e/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-3c",
+      "sequence": "S2-W066",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(c)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(c)\t State whether the lower quartile of X is less than 3, equal to 3 or greater than 3 Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3c/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3c/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-3c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-3d",
+      "sequence": "S2-W067",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(d)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(d)\t Explain why Kei’s method does not give the correct value for the mode. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3d/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3d/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-3d/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-3d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-1e",
+      "sequence": "S2-W068",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e)\t state, giving a reason, the skewness of the distribution. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-1e/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-1e/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-1e/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-1e/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-a-4e",
+      "sequence": "S2-W069",
+      "paperId": "s2-2025-10-a",
+      "year": 2025,
+      "month": 10,
+      "variant": "A",
+      "part": "第 4 题(e)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(e)\t Describe the skewness of the distribution of Y giving a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-4e/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-4e/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-4e/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-a-4e/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-a-5a",
+      "sequence": "S2-W070",
+      "paperId": "s2-2026-01-a",
+      "year": 2026,
+      "month": 1,
+      "variant": "A",
+      "part": "第 5 题(a)",
+      "topic": "continuous",
+      "marks": 2,
+      "summary": "(a)\t Write down the distribution of L (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-5a/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-5a/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-5a/answer/01.webp",
+          "page": 15
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-a-5a/answer/02.webp",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-2e",
+      "sequence": "S2-W071",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 2 题(e)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(e)\t State, giving a reason, the skewness of the distribution of X (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-2e/context/01.webp",
+          "page": 3
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-2e/prompt/01.webp",
+          "page": 3
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-2e/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-2e/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-2d",
+      "sequence": "S2-W072",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(d)",
+      "topic": "continuous",
+      "marks": 1,
+      "summary": "(d)\t State the name of this probability distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-2d/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-2d/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-2d/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-2d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-01-2a",
+      "sequence": "S2-W073",
+      "paperId": "s2-2014-01",
+      "year": 2014,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 2 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a) Suggest a suitable sampling frame for the sample survey. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2a/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2a/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2a/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2014-01-2a/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-01-2b",
+      "sequence": "S2-W074",
+      "paperId": "s2-2014-01",
+      "year": 2014,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 2 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b) Identify the sampling units. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2b/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2b/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2b/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2014-01-2b/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-01-2c",
+      "sequence": "S2-W075",
+      "paperId": "s2-2014-01",
+      "year": 2014,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 2 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c) Give one advantage and one disadvantage of taking a census rather than a sample survey. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2c/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2c/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-01-2c/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2014-01-2c/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2015-01-3a",
+      "sequence": "S2-W076",
+      "paperId": "s2-2015-01",
+      "year": 2015,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a) a statistic, (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3a/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3a/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2015-01-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2015-01-3b",
+      "sequence": "S2-W077",
+      "paperId": "s2-2015-01",
+      "year": 2015,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b) a sampling distribution. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3b/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3b/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2015-01-3b/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2015-01-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-01-1a",
+      "sequence": "S2-W078",
+      "paperId": "s2-2016-01",
+      "year": 2016,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a) Identify one potential problem with this sampling frame. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-01-1a/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2016-01-1a/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-4a",
+      "sequence": "S2-W079",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a) Explain what is meant by “a random sample” in this case. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4a/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4a/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4a/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-4b",
+      "sequence": "S2-W080",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b) State the population in this case. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4b/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4b/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4b/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-4d",
+      "sequence": "S2-W081",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(d)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(d) Explain what you understand by the sampling distribution of X. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4d/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4d/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4d/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2018-06-4e",
+      "sequence": "S2-W082",
+      "paperId": "s2-2018-06",
+      "year": 2018,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(e)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(e) State, giving a reason, which of the following is not a statistic based on this sample. 2 M 12 12 2 ⎛ M − μ ⎞ ( ) (I)  3 M + 11 (II) ∑ i (III) =∑ 2 Mi − 3 ⎜ ⎟ 1 6 ⎝ σ ⎠ i = 1 i 1 (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4e/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4e/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2018-06-4e/answer/01.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-01-6ii-a",
+      "sequence": "S2-W083",
+      "paperId": "s2-2019-01",
+      "year": 2019,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(ii)(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Describe a suitable sampling frame that can be used to take this sample. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-a/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-a/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-a/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-a/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-01-6ii-b",
+      "sequence": "S2-W084",
+      "paperId": "s2-2019-01",
+      "year": 2019,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(ii)(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Explain what you understand by the sampling distribution of C (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-b/context/01.webp",
+          "page": 16
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-b/prompt/01.webp",
+          "page": 16
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-b/answer/01.webp",
+          "page": 11
+        },
+        {
+          "src": "/s2-written/s2-written-2019-01-6ii-b/answer/02.webp",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2020-10-6a",
+      "sequence": "S2-W085",
+      "paperId": "s2-2020-10",
+      "year": 2020,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "6.\t (a)\t Explain what you understand by the sampling distribution of a statistic. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2020-10-6a/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2020-10-6a/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2020-10-6a/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-01-6a",
+      "sequence": "S2-W086",
+      "paperId": "s2-2021-01",
+      "year": 2021,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Explain why the owner decided to take a random sample of the youth club members rather than ask all the youth club members. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6a/context/01.webp",
+          "page": 22
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6a/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6a/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2021-01-6a/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-01-6b",
+      "sequence": "S2-W087",
+      "paperId": "s2-2021-01",
+      "year": 2021,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Suggest a suitable sampling frame. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6b/context/01.webp",
+          "page": 22
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6b/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6b/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2021-01-6b/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-01-6c",
+      "sequence": "S2-W088",
+      "paperId": "s2-2021-01",
+      "year": 2021,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(c)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(c)\t Identify the sampling units. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6c/context/01.webp",
+          "page": 22
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6c/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-01-6c/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2021-01-6c/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-6a",
+      "sequence": "S2-W089",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 6 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "6\t (a)\t Explain what you understand by the sampling distribution of a statistic. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-6a/prompt/01.webp",
+          "page": 22
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-6a/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-6a/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-2a",
+      "sequence": "S2-W090",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "2.\t (a)\t State one characteristic of a population that would make a census a practical alternative to sampling. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2a/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-2a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-2b-i",
+      "sequence": "S2-W091",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(b)(i)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t(i)\t identify a suitable sampling frame,",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-i/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-i/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-i/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-i/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-2b-ii",
+      "sequence": "S2-W092",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(b)(ii)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(ii)\t identify a sampling unit. (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-ii/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-ii/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-ii/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-2b-ii/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-2c",
+      "sequence": "S2-W093",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(c)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(c)\t State the piece of information that is a statistic. Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2c/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2c/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-2c/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-2c/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-06-3a",
+      "sequence": "S2-W094",
+      "paperId": "s2-2024-06",
+      "year": 2024,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable sampling frame for Jian to use. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3a/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3a/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-06-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-06-3b",
+      "sequence": "S2-W095",
+      "paperId": "s2-2024-06",
+      "year": 2024,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Identify the sampling units. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3b/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3b/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-06-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-06-3c",
+      "sequence": "S2-W096",
+      "paperId": "s2-2024-06",
+      "year": 2024,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c)\t Give one advantage and one disadvantage of taking a sample rather than a census. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3c/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3c/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-06-3c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-01-2i-a",
+      "sequence": "S2-W097",
+      "paperId": "s2-2025-01",
+      "year": 2025,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 2 题(i)(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t µ",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-a/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-a/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-01-2i-b",
+      "sequence": "S2-W098",
+      "paperId": "s2-2025-01",
+      "year": 2025,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 2 题(i)(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t x̅ (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-b/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-b/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2025-01-2i-b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-a-2a",
+      "sequence": "S2-W099",
+      "paperId": "s2-2025-10-a",
+      "year": 2025,
+      "month": 10,
+      "variant": "A",
+      "part": "第 2 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable sampling frame for the sample survey. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2a/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2a/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-a-2b",
+      "sequence": "S2-W100",
+      "paperId": "s2-2025-10-a",
+      "year": 2025,
+      "month": 10,
+      "variant": "A",
+      "part": "第 2 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Identify the sampling units. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2b/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2b/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-a-2c",
+      "sequence": "S2-W101",
+      "paperId": "s2-2025-10-a",
+      "year": 2025,
+      "month": 10,
+      "variant": "A",
+      "part": "第 2 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c)\t Give one advantage and one disadvantage of taking a census rather than a sample survey. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2c/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2c/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2c/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-a-2c/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-1a",
+      "sequence": "S2-W102",
+      "paperId": "s2-2025-10",
+      "year": 2025,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable sampling frame for the survey. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1a/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-1a/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-1b",
+      "sequence": "S2-W103",
+      "paperId": "s2-2025-10",
+      "year": 2025,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Identify the sampling units for the survey. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1b/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-1b/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-1c",
+      "sequence": "S2-W104",
+      "paperId": "s2-2025-10",
+      "year": 2025,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 1 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c)\t Give one advantage and one disadvantage of taking a random sample rather than a census. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1c/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1c/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-1c/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-1c/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-10-3a",
+      "sequence": "S2-W105",
+      "paperId": "s2-2025-10",
+      "year": 2025,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "3.\t (a)\t Explain what you understand by the sampling distribution of a statistic. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-10-3a/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-10-3a/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2025-10-3a/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-1a-i",
+      "sequence": "S2-W106",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)(i)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(i)\t suggest a suitable sampling frame,",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-i/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-i/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-i/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-i/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-1a-ii",
+      "sequence": "S2-W107",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(a)(ii)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(ii)\t identify the sampling units. (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-ii/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-ii/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-ii/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-1a-ii/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-1b",
+      "sequence": "S2-W108",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Give one advantage of taking a sample rather than a census. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-1b/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-1b/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-3a",
+      "sequence": "S2-W109",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 3 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable sampling frame for the survey. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3a/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3a/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-3b",
+      "sequence": "S2-W110",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 3 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Identify the sampling units. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3b/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3b/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-3c",
+      "sequence": "S2-W111",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 3 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c)\t Give one advantage and one disadvantage of taking a sample survey rather than a census. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3c/context/01.webp",
+          "page": 4
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3c/prompt/01.webp",
+          "page": 4
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-3c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-1a",
+      "sequence": "S2-W112",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(a)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(a)\t Suggest a suitable sampling frame for the sample. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1a/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1a/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1a/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-1a/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-1b",
+      "sequence": "S2-W113",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "sampling",
+      "marks": 1,
+      "summary": "(b)\t Identify the sampling units for the sample. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1b/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-1b/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-1c",
+      "sequence": "S2-W114",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(c)",
+      "topic": "sampling",
+      "marks": 2,
+      "summary": "(c)\t Give one advantage and one disadvantage of taking a random sample rather than a census. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1c/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1c/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-1c/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-1c/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-01-4a",
+      "sequence": "S2-W115",
+      "paperId": "s2-2014-01",
+      "year": 2014,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 4 题(a)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(a) Write down the alternative hypothesis. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-01-4a/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-01-4a/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-01-4a/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2014-01-4a/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-06-1b",
+      "sequence": "S2-W116",
+      "paperId": "s2-2014-06",
+      "year": 2014,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(b)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b) State suitable hypotheses for testing these claims. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-06-1b/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-06-1b/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-06-1b/answer/01.webp",
+          "page": 5
+        },
+        {
+          "src": "/s2-written/s2-written-2014-06-1b/answer/02.webp",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-06-5a-i",
+      "sequence": "S2-W117",
+      "paperId": "s2-2014-06",
+      "year": 2014,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(a)(i)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(a) (i) State suitable hypotheses for a two-tailed test of this claim.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5a-i/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5a-i/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5a-i/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2014-06-5a-i/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2014-06-5b",
+      "sequence": "S2-W118",
+      "paperId": "s2-2014-06",
+      "year": 2014,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 5 题(b)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(b) Ann found that 8 of the 15 peas germinated.  State whether or not the company’s claim is supported.  Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5b/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5b/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2014-06-5b/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2014-06-5b/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-01-5d",
+      "sequence": "S2-W119",
+      "paperId": "s2-2016-01",
+      "year": 2016,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(d)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(d) State the null hypothesis for this test. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-01-5d/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-01-5d/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-01-5d/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2016-01-5d/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-06-3c",
+      "sequence": "S2-W120",
+      "paperId": "s2-2016-06",
+      "year": 2016,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(c)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(c) State the conclusion that can be made based on this observation. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3c/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3c/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2016-06-3c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-06-3d-i",
+      "sequence": "S2-W121",
+      "paperId": "s2-2016-06",
+      "year": 2016,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(d)(i)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(i) 10% level of significance,",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-i/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-i/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-i/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-i/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2016-06-3d-ii",
+      "sequence": "S2-W122",
+      "paperId": "s2-2016-06",
+      "year": 2016,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(d)(ii)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(ii) 1% level of significance. (2)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-ii/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-ii/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-ii/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2016-06-3d-ii/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-01-5b-i",
+      "sequence": "S2-W123",
+      "paperId": "s2-2017-01",
+      "year": 2017,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(b)(i)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b) (i) Write down suitable hypotheses for this test.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-i/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-i/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-i/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-i/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-01-5b-ii",
+      "sequence": "S2-W124",
+      "paperId": "s2-2017-01",
+      "year": 2017,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(b)(ii)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(ii) Describe a suitable test statistic that the manager should use.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-ii/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-ii/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-ii/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-ii/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-01-5b-iii",
+      "sequence": "S2-W125",
+      "paperId": "s2-2017-01",
+      "year": 2017,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(b)(iii)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(iii) Explain what is meant by the critical region for this test. (3)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-iii/context/01.webp",
+          "page": 14
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-iii/prompt/01.webp",
+          "page": 14
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-iii/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2017-01-5b-iii/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-06-1d",
+      "sequence": "S2-W126",
+      "paperId": "s2-2017-06",
+      "year": 2017,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(d)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(d) State the hypotheses for this test. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-06-1d/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-06-1d/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-06-1d/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2017-06-1d/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2017-06-4b-i",
+      "sequence": "S2-W127",
+      "paperId": "s2-2017-06",
+      "year": 2017,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(b)(i)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b) (i) State the hypotheses for this test.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2017-06-4b-i/context/01.webp",
+          "page": 12
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2017-06-4b-i/prompt/01.webp",
+          "page": 12
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2017-06-4b-i/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2017-06-4b-i/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2019-06-4b",
+      "sequence": "S2-W128",
+      "paperId": "s2-2019-06",
+      "year": 2019,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(b)",
+      "topic": "testing",
+      "marks": 3,
+      "summary": "(b) ExpIain how a hypothesis test with a 5 ％ level Of significance ， tO assess the resident's claim would be different from your hypothesis test in part (a). State the conclusion you would reach. ( 3 )",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2019-06-4b/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2019-06-4b/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2019-06-4b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2019-06-4b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2020-01-5c",
+      "sequence": "S2-W129",
+      "paperId": "s2-2020-01",
+      "year": 2020,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(c)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(c)\t State what this suggests about Chris’s claim.  Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2020-01-5c/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2020-01-5c/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2020-01-5c/answer/01.webp",
+          "page": 10
+        },
+        {
+          "src": "/s2-written/s2-written-2020-01-5c/answer/02.webp",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2021-06-1c",
+      "sequence": "S2-W130",
+      "paperId": "s2-2021-06",
+      "year": 2021,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 1 题(c)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(c)\t Write down the hypotheses for a suitable test to examine Jem’s belief. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2021-06-1c/context/01.webp",
+          "page": 2
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2021-06-1c/prompt/01.webp",
+          "page": 2
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2021-06-1c/answer/01.webp",
+          "page": 6
+        },
+        {
+          "src": "/s2-written/s2-written-2021-06-1c/answer/02.webp",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-3b",
+      "sequence": "S2-W131",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b)\tWrite down suitable null and alternative hypotheses that the headteacher should use. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3b/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3b/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2022-01-3e",
+      "sequence": "S2-W132",
+      "paperId": "s2-2022-01",
+      "year": 2022,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(e)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(e)\t Comment on this finding in the light of the critical region found in part (c). (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3e/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3e/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2022-01-3e/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2022-01-3e/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2023-06-4c-ii",
+      "sequence": "S2-W133",
+      "paperId": "s2-2023-06",
+      "year": 2023,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 4 题(c)(ii)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(ii)\t Give a reason why this is not an appropriate test. (1)",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2023-06-4c-ii/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2023-06-4c-ii/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2023-06-4c-ii/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2023-06-4c-ii/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-01-3d",
+      "sequence": "S2-W134",
+      "paperId": "s2-2024-01",
+      "year": 2024,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(d)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(d)\t With reference to part (b), comment on Rowan’s belief. Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3d/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3d/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-01-3d/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-01-3d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-06-3e",
+      "sequence": "S2-W135",
+      "paperId": "s2-2024-06",
+      "year": 2024,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(e)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(e)\t Using the critical region from part (d), state what this suggests about Jian’s belief. Give a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3e/context/01.webp",
+          "page": 10
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3e/prompt/01.webp",
+          "page": 10
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-06-3e/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-06-3e/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-10-3c",
+      "sequence": "S2-W136",
+      "paperId": "s2-2024-10",
+      "year": 2024,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(c)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(c)\t Write down suitable null and alternative hypotheses that the shop manager should use. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3c/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3c/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3c/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-10-3c/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2024-10-3f",
+      "sequence": "S2-W137",
+      "paperId": "s2-2024-10",
+      "year": 2024,
+      "month": 10,
+      "variant": "regular",
+      "part": "第 3 题(f)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(f)\t Comment on this finding, using the critical region in part (d) (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3f/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3f/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2024-10-3f/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2024-10-3f/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-01-5b",
+      "sequence": "S2-W138",
+      "paperId": "s2-2025-01",
+      "year": 2025,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(b)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b)\t Write down suitable null and alternative hypotheses that Chris can use. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5b/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5b/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5b/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2025-01-5b/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-01-5d",
+      "sequence": "S2-W139",
+      "paperId": "s2-2025-01",
+      "year": 2025,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 5 题(d)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(d)\t State the conclusion to the test that can be made using this observation. Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5d/context/01.webp",
+          "page": 18
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5d/prompt/01.webp",
+          "page": 18
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-01-5d/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2025-01-5d/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-2c",
+      "sequence": "S2-W140",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(c)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(c)\t Write down suitable null and alternative hypotheses that the manager should use. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2c/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2c/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2c/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-2c/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2025-06-2f",
+      "sequence": "S2-W141",
+      "paperId": "s2-2025-06",
+      "year": 2025,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 2 题(f)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(f)\t Comment on this finding in the light of your critical region found in part (d) (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2f/context/01.webp",
+          "page": 6
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2f/prompt/01.webp",
+          "page": 6
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2025-06-2f/answer/01.webp",
+          "page": 7
+        },
+        {
+          "src": "/s2-written/s2-written-2025-06-2f/answer/02.webp",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-a-4a-i",
+      "sequence": "S2-W142",
+      "paperId": "s2-2026-01-a",
+      "year": 2026,
+      "month": 1,
+      "variant": "A",
+      "part": "第 4 题(a)(i)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(a)\t (i)\t State suitable hypotheses for a two tailed test of this claim.",
+      "groupedAnswer": false,
+      "markNote": "原卷相邻小问合并标分；本小问已按官方独立 B1 / B1cso 评分点核实为 1 分。",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4a-i/context/01.webp",
+          "page": 3
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4a-i/prompt/01.webp",
+          "page": 3
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4a-i/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4a-i/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-a-4b",
+      "sequence": "S2-W143",
+      "paperId": "s2-2026-01-a",
+      "year": 2026,
+      "month": 1,
+      "variant": "A",
+      "part": "第 4 题(b)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(b)\t Ann found that 8 of the 15 peas germinated. State whether or not the company’s claim is supported. Give a reason for your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4b/context/01.webp",
+          "page": 3
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4b/prompt/01.webp",
+          "page": 3
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4b/answer/01.webp",
+          "page": 13
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-a-4b/answer/02.webp",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-3b",
+      "sequence": "S2-W144",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(b)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(b)\t Write down suitable null and alternative hypotheses for Remy’s test. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3b/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3b/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3b/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-3b/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-01-3d",
+      "sequence": "S2-W145",
+      "paperId": "s2-2026-01",
+      "year": 2026,
+      "month": 1,
+      "variant": "regular",
+      "part": "第 3 题(d)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(d)\t state the conclusion to the test, giving a reason for your answer. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3d/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3d/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-01-3d/answer/01.webp",
+          "page": 8
+        },
+        {
+          "src": "/s2-written/s2-written-2026-01-3d/answer/02.webp",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-a-4d",
+      "sequence": "S2-W146",
+      "paperId": "s2-2026-06-a",
+      "year": 2026,
+      "month": 6,
+      "variant": "A",
+      "part": "第 4 题(d)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(d)\t Comment on the company’s claim with reference to your answer to part (b) You must justify your answer. (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4d/context/01.webp",
+          "page": 5
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4d/prompt/01.webp",
+          "page": 5
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4d/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-a-4d/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-3e",
+      "sequence": "S2-W147",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(e)",
+      "topic": "testing",
+      "marks": 1,
+      "summary": "(e)\t Write down suitable null and alternative hypotheses for the test. (1)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3e/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3e/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3e/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-3e/answer/02.webp",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s2-written-2026-06-3g",
+      "sequence": "S2-W148",
+      "paperId": "s2-2026-06",
+      "year": 2026,
+      "month": 6,
+      "variant": "regular",
+      "part": "第 3 题(g)",
+      "topic": "testing",
+      "marks": 2,
+      "summary": "(g)\t Comment on this finding in the light of your critical region found in part (f) (2)",
+      "groupedAnswer": false,
+      "markNote": "",
+      "context": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3g/context/01.webp",
+          "page": 8
+        }
+      ],
+      "prompt": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3g/prompt/01.webp",
+          "page": 8
+        }
+      ],
+      "answer": [
+        {
+          "src": "/s2-written/s2-written-2026-06-3g/answer/01.webp",
+          "page": 9
+        },
+        {
+          "src": "/s2-written/s2-written-2026-06-3g/answer/02.webp",
+          "page": 10
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "id": "s2-2014-01",
+      "title": "2014 年 1 月 · 常规卷",
+      "count": 4,
+      "leafCount": 22
+    },
+    {
+      "id": "s2-2014-06",
+      "title": "2014 年 6 月 · 常规卷",
+      "count": 5,
+      "leafCount": 23
+    },
+    {
+      "id": "s2-2015-01",
+      "title": "2015 年 1 月 · 常规卷",
+      "count": 2,
+      "leafCount": 24
+    },
+    {
+      "id": "s2-2015-06",
+      "title": "2015 年 6 月 · 常规卷",
+      "count": 2,
+      "leafCount": 23
+    },
+    {
+      "id": "s2-2016-01",
+      "title": "2016 年 1 月 · 常规卷",
+      "count": 5,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2016-06",
+      "title": "2016 年 6 月 · 常规卷",
+      "count": 5,
+      "leafCount": 30
+    },
+    {
+      "id": "s2-2016-10",
+      "title": "2016 年 10 月 · 常规卷",
+      "count": 3,
+      "leafCount": 26
+    },
+    {
+      "id": "s2-2017-01",
+      "title": "2017 年 1 月 · 常规卷",
+      "count": 5,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2017-06",
+      "title": "2017 年 6 月 · 常规卷",
+      "count": 4,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2017-10",
+      "title": "2017 年 10 月 · 常规卷",
+      "count": 0,
+      "leafCount": 21
+    },
+    {
+      "id": "s2-2018-01",
+      "title": "2018 年 1 月 · 常规卷",
+      "count": 0,
+      "leafCount": 28
+    },
+    {
+      "id": "s2-2018-06",
+      "title": "2018 年 6 月 · 常规卷",
+      "count": 6,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2018-10",
+      "title": "2018 年 10 月 · 常规卷",
+      "count": 3,
+      "leafCount": 30
+    },
+    {
+      "id": "s2-2019-01",
+      "title": "2019 年 1 月 · 常规卷",
+      "count": 5,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2019-06",
+      "title": "2019 年 6 月 · 常规卷",
+      "count": 4,
+      "leafCount": 28
+    },
+    {
+      "id": "s2-2019-10",
+      "title": "2019 年 10 月 · 常规卷",
+      "count": 0,
+      "leafCount": 21
+    },
+    {
+      "id": "s2-2020-01",
+      "title": "2020 年 1 月 · 常规卷",
+      "count": 2,
+      "leafCount": 24
+    },
+    {
+      "id": "s2-2020-10",
+      "title": "2020 年 10 月 · 常规卷",
+      "count": 2,
+      "leafCount": 25
+    },
+    {
+      "id": "s2-2021-01",
+      "title": "2021 年 1 月 · 常规卷",
+      "count": 5,
+      "leafCount": 25
+    },
+    {
+      "id": "s2-2021-06",
+      "title": "2021 年 6 月 · 常规卷",
+      "count": 4,
+      "leafCount": 24
+    },
+    {
+      "id": "s2-2021-10",
+      "title": "2021 年 10 月 · 常规卷",
+      "count": 1,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2022-01",
+      "title": "2022 年 1 月 · 常规卷",
+      "count": 8,
+      "leafCount": 27
+    },
+    {
+      "id": "s2-2022-06",
+      "title": "2022 年 6 月 · 常规卷",
+      "count": 0,
+      "leafCount": 25
+    },
+    {
+      "id": "s2-2022-10",
+      "title": "2022 年 10 月 · 常规卷",
+      "count": 0,
+      "leafCount": 21
+    },
+    {
+      "id": "s2-2023-01",
+      "title": "2023 年 1 月 · 常规卷",
+      "count": 2,
+      "leafCount": 27
+    },
+    {
+      "id": "s2-2023-06",
+      "title": "2023 年 6 月 · 常规卷",
+      "count": 9,
+      "leafCount": 32
+    },
+    {
+      "id": "s2-2023-10",
+      "title": "2023 年 10 月 · 常规卷",
+      "count": 1,
+      "leafCount": 27
+    },
+    {
+      "id": "s2-2024-01",
+      "title": "2024 年 1 月 · 常规卷",
+      "count": 3,
+      "leafCount": 26
+    },
+    {
+      "id": "s2-2024-06",
+      "title": "2024 年 6 月 · 常规卷",
+      "count": 5,
+      "leafCount": 26
+    },
+    {
+      "id": "s2-2024-10",
+      "title": "2024 年 10 月 · 常规卷",
+      "count": 5,
+      "leafCount": 28
+    },
+    {
+      "id": "s2-2025-01",
+      "title": "2025 年 1 月 · 常规卷",
+      "count": 5,
+      "leafCount": 33
+    },
+    {
+      "id": "s2-2025-06",
+      "title": "2025 年 6 月 · 常规卷",
+      "count": 8,
+      "leafCount": 31
+    },
+    {
+      "id": "s2-2025-10",
+      "title": "2025 年 10 月 · 常规卷",
+      "count": 4,
+      "leafCount": 25
+    },
+    {
+      "id": "s2-2025-10-a",
+      "title": "2025 年 10 月 · A 卷",
+      "count": 5,
+      "leafCount": 26
+    },
+    {
+      "id": "s2-2026-01",
+      "title": "2026 年 1 月 · 常规卷",
+      "count": 6,
+      "leafCount": 32
+    },
+    {
+      "id": "s2-2026-01-a",
+      "title": "2026 年 1 月 · A 卷",
+      "count": 3,
+      "leafCount": 29
+    },
+    {
+      "id": "s2-2026-06",
+      "title": "2026 年 6 月 · 常规卷",
+      "count": 10,
+      "leafCount": 33
+    },
+    {
+      "id": "s2-2026-06-a",
+      "title": "2026 年 6 月 · A 卷",
+      "count": 7,
+      "leafCount": 30
+    }
+  ],
+  "auditUrl": "/s2-written/downloads/audit.csv",
+  "questionPdf": "/s2-written/downloads/questions.pdf",
+  "answerPdf": "/s2-written/downloads/answers.pdf"
+}
