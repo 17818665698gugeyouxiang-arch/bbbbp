@@ -4,13 +4,14 @@ import {bootstrap,emptySnapshot,equal,mergeSnapshots,SyncConflict,tableNames,typ
 import type {Photo} from './model';
 import {cloudEnabled} from './site-config';
 import {cloudJson,cloudPhoto,cloudUser} from './cloud';
+import {retryDelay,sameRevision} from './sync-policy';
 
 export type SyncStatus={state:'working'|'saved'|'offline'|'conflict';message:string;at?:number;conflicts?:string[]};
 type Server={serverId:string;revision:number;data:Snapshot};
 type Baseline={serverId:string;data:Snapshot};
 const photoHashes=new Map<string,string>();
 let controller:{tick:(required?:boolean,choice?:'local'|'remote')=>Promise<void>}|undefined;
-export async function syncNow(required=false,choice?:'local'|'remote'){await controller?.tick(required,choice);}
+export async function syncNow(required=false,choice?:'local'|'remote'){if(!controller&&required)throw Error('同步尚未就绪，请稍后重试');await controller?.tick(required,choice);}
 
 async function jsonFetch(url:string,options?:RequestInit){
  if(cloudEnabled)return cloudJson(url,options);
@@ -60,13 +61,15 @@ async function applyShared(captured:Snapshot,target:Server,blobs:Map<string,Blob
 }
 
 export function startLocalSync(onStatus:(status:SyncStatus)=>void){
- let stopped=false,inFlight:Promise<void>|undefined,mutationTimer:number|undefined,first=true;
+ let stopped=false,inFlight:Promise<void>|undefined,mutationTimer:number|undefined,first=true,cached:Server|undefined,failures=0,nextPoll=0;
  async function once(choice?:'local'|'remote'){
   if(cloudEnabled&&!await cloudUser()){onStatus({state:'saved',message:'游客模式：记录只保存在此浏览器，登录后使用独立的云端学习空间。'});return;}
   if(first)onStatus({state:'working',message:cloudEnabled?'正在同步学习记录…':'正在同步本机记录…'});first=false;
   let baseline=(await db.syncMeta.get('baseline'))?.value as Baseline|undefined;
-  const remote:Server=await jsonFetch('/api/study');
+  const head=cloudEnabled&&cached?await jsonFetch('/api/study/head'):null;
+  const remote:Server=sameRevision(cached,head)?cached!:await jsonFetch('/api/study');
   remote.data={...emptySnapshot(),...remote.data};
+  cached=remote;
   if(stopped)return;
   if(baseline&&baseline.serverId!==remote.serverId)throw Error('共享数据位置已更换。已保留浏览器记录，请先备份并检查项目 data 文件夹。');
   const local=await readLocal();
@@ -77,23 +80,26 @@ export function startLocalSync(onStatus:(status:SyncStatus)=>void){
   if(!equal(merged,remote.data)){
    await uploadPhotos(merged,remote.data,local.photos);
    target=await jsonFetch('/api/study',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({serverId:remote.serverId,revision:remote.revision,data:merged,...(!baseline?{migration:local.data}:{})})});
+   cached=target;
   }
   if(stopped)return;
   const pending=await applyShared(local.data,target,local.photos);
   onStatus(pending?{state:'working',message:'已保存在此浏览器，继续同步最新修改…'}:{state:'saved',message:cloudEnabled?'已同步到个人云端':'已同步到本机共享数据',at:Date.now()});
+  return pending;
  }
  async function tick(required=false,choice?:'local'|'remote'){
   if(inFlight){await inFlight;if(required||choice)return tick(required,choice);return;}
   const job=async()=>{
-   try{for(let attempt=0;attempt<3;attempt++){try{await once(choice);return;}catch(e){if((e as any).status===409&&attempt<2)continue;throw e;}}}
-   catch(e){const message=e instanceof Error?e.message:'本机同步失败';onStatus(e instanceof SyncConflict?{state:'conflict',message,conflicts:e.paths}:{state:'offline',message:'尚未同步：'+message+'。当前修改仍保存在此浏览器，恢复连接后会重试。'});if(required)throw Error(message);}
+   try{let conflicts=0,drains=0;for(;;){try{const pending=await once(choice);if(pending&&required){if(++drains>=5)throw Error('仍有新修改等待同步，请稍后再退出');continue;}failures=0;nextPoll=Date.now()+(pending?1000:retryDelay(0,document.hidden));return;}catch(e){if((e as any).status===409&&conflicts++<2){cached=undefined;continue;}throw e;}}}
+   catch(e){failures++;nextPoll=Date.now()+retryDelay(failures,document.hidden);const message=e instanceof Error?e.message:'本机同步失败';onStatus(e instanceof SyncConflict?{state:'conflict',message,conflicts:e.paths}:{state:'offline',message:'尚未同步：'+message+'。当前修改仍保存在此浏览器，恢复连接后会重试。'});if(required)throw Error(message);}
   };
   inFlight=(navigator.locks?navigator.locks.request('bpho-study-local-sync',job):job()).finally(()=>{inFlight=undefined;});await inFlight;
  }
  controller={tick};
  const focus=()=>{void tick();};window.addEventListener('focus',focus);window.addEventListener('online',focus);
- const mutated=(parts:Record<string,unknown>)=>{if(!Object.keys(parts).some(key=>key.includes('/'+db.name+'/')&&!key.includes('/syncMeta/')))return;onStatus({state:'working',message:'已保存在此浏览器，正在同步…'});window.clearTimeout(mutationTimer);mutationTimer=window.setTimeout(focus,150);};
+ const visible=()=>{if(!document.hidden)focus();};document.addEventListener('visibilitychange',visible);
+ const mutated=(parts:Record<string,unknown>)=>{if(!Object.keys(parts).some(key=>key.includes('/'+db.name+'/')&&!key.includes('/syncMeta/')))return;onStatus({state:'working',message:'已保存在此浏览器，正在同步…'});window.clearTimeout(mutationTimer);mutationTimer=window.setTimeout(()=>{if(!cloudEnabled||failures===0||Date.now()>=nextPoll)focus();},150);};
  Dexie.on('storagemutated',mutated);
- const timer=window.setInterval(()=>{if(!stopped)void tick();},cloudEnabled?15000:2500);void tick();
- return ()=>{stopped=true;window.clearInterval(timer);window.clearTimeout(mutationTimer);Dexie.on('storagemutated').unsubscribe(mutated);window.removeEventListener('focus',focus);window.removeEventListener('online',focus);controller=undefined;};
+ const timer=window.setInterval(()=>{if(!stopped&&(!cloudEnabled||Date.now()>=nextPoll))void tick();},cloudEnabled?5000:2500);void tick();
+ return ()=>{stopped=true;window.clearInterval(timer);window.clearTimeout(mutationTimer);Dexie.on('storagemutated').unsubscribe(mutated);window.removeEventListener('focus',focus);window.removeEventListener('online',focus);document.removeEventListener('visibilitychange',visible);controller=undefined;};
 }
