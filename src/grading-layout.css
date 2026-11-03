@@ -1,0 +1,16 @@
+/* Each pane owns its vertical scroll; the outer page still reaches scores and photos. */
+.marking-comparison,.cs-marking .marking-comparison{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:stretch}
+.marking-comparison>.comparison-pane{display:flex;flex-direction:column;height:clamp(280px,calc(100dvh - 330px),900px);min-width:0;min-height:0;margin-bottom:20px;padding:20px;overflow:hidden}
+.comparison-pane>.panel-heading{flex:0 0 auto;min-height:32px;margin-bottom:14px}
+.comparison-scroll{flex:1 1 auto;min-height:0;overflow:auto;overscroll-behavior:contain;scrollbar-gutter:stable;scrollbar-width:thin;scrollbar-color:var(--control) transparent;padding:0 8px 12px 0;outline-offset:2px}
+.comparison-scroll:focus-visible{outline:2px solid var(--focus);border-radius:3px}
+.comparison-scroll::-webkit-scrollbar{width:10px;height:10px}
+.comparison-scroll::-webkit-scrollbar-thumb{background:var(--control);border:2px solid var(--surface);border-radius:6px}
+.comparison-scroll .crops figure:last-child{margin-bottom:0}
+.comparison-own-work{padding-top:20px;margin-top:20px;border-top:1px solid var(--border)}
+.marking-main .grade-panel{margin-top:4px}
+@media(max-width:760px){
+ .marking-comparison,.cs-marking .marking-comparison{grid-template-columns:minmax(0,1fr);gap:0}
+ .marking-comparison>.comparison-pane{height:clamp(280px,60dvh,600px);padding:16px;margin-bottom:16px}
+ .comparison-scroll{padding-right:4px}
+}

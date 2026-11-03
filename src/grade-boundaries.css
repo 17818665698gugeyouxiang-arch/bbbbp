@@ -1,0 +1,35 @@
+.paper-boundary{border-top:1px solid var(--border);padding:10px 0 12px;font-size:12px;line-height:1.6;color:var(--ink)}
+.boundary-target{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.boundary-target strong{font-size:16px;font-weight:600;font-variant-numeric:tabular-nums;white-space:nowrap}
+.boundary-target small,.boundary-qualification small{font-size:12px;font-weight:400;color:var(--muted);margin-left:6px}
+.boundary-target strong small{margin-left:0}
+.boundary-unavailable{font-size:12px;color:var(--muted);line-height:1.7}
+.boundary-disclosure{margin-top:6px;color:var(--muted)}
+.boundary-disclosure summary{cursor:pointer;min-height:30px;align-content:center;font-size:12px}
+.boundary-disclosure p{font-size:12px;margin:6px 0;line-height:1.8}
+.boundary-disclosure summary:focus-visible,.boundary-sources a:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
+.boundary-sources{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:8px;font-size:12px}
+.boundary-sources a{color:var(--blue);text-underline-offset:3px;text-decoration:underline;overflow-wrap:anywhere}
+.boundary-sources small{display:block;color:var(--muted);font-size:11px}
+.boundary-qualification{margin-top:8px;padding-left:12px;border-left:2px solid var(--control)}
+.boundary-qualification>div+div{margin-top:8px}
+.boundary-qualification span{font-size:12px;line-height:1.7}
+.boundary-qualification strong{font-size:13px;font-variant-numeric:tabular-nums;margin-left:6px}
+.boundary-qualification p{font-size:11px;color:var(--muted);line-height:1.7;margin:3px 0 0;overflow-wrap:anywhere}
+.result-boundaries{max-width:100%}
+.result-boundaries .panel-heading{gap:12px;flex-wrap:wrap}
+.result-boundaries .panel-heading>span{font-size:12px}
+.result-boundary-target{display:flex;align-items:baseline;gap:20px;flex-wrap:wrap;margin:8px 0;font-size:14px}
+.result-boundary-target strong{font-size:28px;font-weight:600;font-variant-numeric:tabular-nums}
+.result-boundary-target small{font-size:15px;font-weight:400;color:var(--muted)}
+.boundary-gap{font-size:14px;color:var(--blue);margin:6px 0 16px}
+.boundary-band-scroll{overflow-x:auto;margin:16px 0}
+.boundary-bands{border-collapse:collapse;min-width:280px;width:100%;text-align:left;font-variant-numeric:tabular-nums;font-size:14px}
+.boundary-bands caption{text-align:left;font-size:12px;color:var(--muted);padding-bottom:10px}
+.boundary-bands th,.boundary-bands td{padding:10px 12px;border-bottom:1px solid var(--border)}
+.boundary-bands th{font-size:12px;font-weight:500;background:var(--soft)}
+.boundary-note{font-size:13px;line-height:1.9;color:var(--muted);margin:16px 0 10px;max-width:85ch}
+.boundary-checked{font-size:11px;color:var(--muted);margin-top:12px}
+.result-boundaries .boundary-qualification{margin:16px 0;padding-left:14px}
+.result-boundaries .boundary-qualification span,.result-boundaries .boundary-qualification strong{font-size:14px}
+@media(max-width:760px){.boundary-disclosure summary{min-height:36px}.boundary-note{font-size:13px}.result-boundary-target{gap:12px}.boundary-sources{font-size:12px}.boundary-bands th,.boundary-bands td{padding:8px}}

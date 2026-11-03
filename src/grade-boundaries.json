@@ -1,0 +1,6064 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-02",
+  "records": [
+    {
+      "paperId": "fp1-2026-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 63
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 51
+        },
+        {
+          "label": "D",
+          "score": 45
+        },
+        {
+          "label": "E",
+          "score": 40
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 63
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 57
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 51
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 45
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 40
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 35
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2026-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 63
+        },
+        {
+          "label": "B",
+          "score": 56
+        },
+        {
+          "label": "C",
+          "score": 49
+        },
+        {
+          "label": "D",
+          "score": 43
+        },
+        {
+          "label": "E",
+          "score": 37
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 63
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 56
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 49
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 43
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 37
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 31
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2025-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 64
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 57
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 50
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 44
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 38
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 32
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2025-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 58
+        },
+        {
+          "label": "C",
+          "score": 52
+        },
+        {
+          "label": "D",
+          "score": 46
+        },
+        {
+          "label": "E",
+          "score": 40
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 64
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 58
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 52
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 46
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 40
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 34
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2024-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 64
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 57
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 50
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 44
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 38
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 32
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2024-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 62
+        },
+        {
+          "label": "B",
+          "score": 56
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 39
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 62
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 56
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 50
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 44
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 39
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 34
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2023-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 62
+        },
+        {
+          "label": "B",
+          "score": 55
+        },
+        {
+          "label": "C",
+          "score": 49
+        },
+        {
+          "label": "D",
+          "score": 43
+        },
+        {
+          "label": "E",
+          "score": 37
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 62
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 55
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 49
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 43
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 37
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 31
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2023-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 34
+        },
+        {
+          "label": "D",
+          "score": 28
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 47
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 40
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 34
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 28
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 22
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 16
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 61
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 54,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2022-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 34
+        },
+        {
+          "label": "D",
+          "score": 28
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 47
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 40
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 34
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 28
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 22
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 16
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 61
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 54,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2022-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 50
+        },
+        {
+          "label": "B",
+          "score": 43
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 29
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 50
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 43
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 36
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 29
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 22
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 15
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 64
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 57,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2021-10-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 50
+        },
+        {
+          "label": "B",
+          "score": 43
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 29
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 50
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 43
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 36
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 29
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 22
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 15
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 64
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 57,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2021-06-new",
+      "status": "unavailable",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [],
+      "sources": [
+        {
+          "title": "Pearson 官方：2020/2021 夏季评估说明",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Post-results%20services/understanding-grade-boundaries-2023-international-qualifications.pdf",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "note": "2021 年夏季采用学校评估成绩，没有该试卷的常规考试分数线。"
+    },
+    {
+      "paperId": "fp1-2021-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 52
+        },
+        {
+          "label": "B",
+          "score": 44
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 28
+        },
+        {
+          "label": "E",
+          "score": 20
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 52
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 44
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 36
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 28
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 20
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 12
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 68
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 60,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2020-10-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 52
+        },
+        {
+          "label": "B",
+          "score": 44
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 28
+        },
+        {
+          "label": "E",
+          "score": 20
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 October 2020 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/grade-boundaries-november-2020-ial.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 52,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 44,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 36,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 28,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 20,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 68,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 60,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2020-01-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 65
+        },
+        {
+          "label": "B",
+          "score": 60
+        },
+        {
+          "label": "C",
+          "score": 55
+        },
+        {
+          "label": "D",
+          "score": 50
+        },
+        {
+          "label": "E",
+          "score": 46
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2020 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/2001-ial-grade-boundaries.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 65,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 60,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 55,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 50,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 46,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2019-06-new",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 61
+        },
+        {
+          "label": "B",
+          "score": 54
+        },
+        {
+          "label": "C",
+          "score": 47
+        },
+        {
+          "label": "D",
+          "score": 40
+        },
+        {
+          "label": "E",
+          "score": 34
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2019 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1906-ial-grade-boundaries-v3.pdf",
+          "kind": "official",
+          "page": 7
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 61,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 54,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 47,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 40,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 34,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2019-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 59
+        },
+        {
+          "label": "C",
+          "score": 54
+        },
+        {
+          "label": "D",
+          "score": 49
+        },
+        {
+          "label": "E",
+          "score": 44
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2019 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1901-ial-grade-boundaries.pdf",
+          "kind": "official",
+          "page": 6
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 64,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 59,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 54,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 49,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 44,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 74,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2018-06-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2018 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1806-ial-grade-boundaries1.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 64,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 57,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 50,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 44,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 38,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2018-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2018 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/grade-boundaries-int-a-as-jan-18.pdf",
+          "kind": "official",
+          "page": 6
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 64,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 57,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 50,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 44,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 38,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2017-06-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 64
+        },
+        {
+          "label": "B",
+          "score": 57
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 44
+        },
+        {
+          "label": "E",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2017 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1706-ial-grade-boundaries-v2.pdf",
+          "kind": "official",
+          "page": 6
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 64,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 57,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 50,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 44,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 38,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2017-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 62
+        },
+        {
+          "label": "B",
+          "score": 55
+        },
+        {
+          "label": "C",
+          "score": 48
+        },
+        {
+          "label": "D",
+          "score": 42
+        },
+        {
+          "label": "E",
+          "score": 36
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2017 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/ial-grade-bouundaries-1701.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 62,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 55,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 48,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 42,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 36,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2016-06-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 63
+        },
+        {
+          "label": "B",
+          "score": 56
+        },
+        {
+          "label": "C",
+          "score": 49
+        },
+        {
+          "label": "D",
+          "score": 42
+        },
+        {
+          "label": "E",
+          "score": 35
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2016 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1606_IAL_Grade_Boundaries_Final.pdf",
+          "kind": "official",
+          "page": 6
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 63,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 56,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 49,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 42,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 35,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 69,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2016-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 61
+        },
+        {
+          "label": "B",
+          "score": 54
+        },
+        {
+          "label": "C",
+          "score": 47
+        },
+        {
+          "label": "D",
+          "score": 41
+        },
+        {
+          "label": "E",
+          "score": 35
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2016 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1601-IAL-Grade-Boundaries.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 61,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 54,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 47,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 41,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 35,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2015-06-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 59
+        },
+        {
+          "label": "B",
+          "score": 52
+        },
+        {
+          "label": "C",
+          "score": 45
+        },
+        {
+          "label": "D",
+          "score": 38
+        },
+        {
+          "label": "E",
+          "score": 32
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2015 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1506-IAL-Grade-Boundaries.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 59,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 52,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 45,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 38,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 32,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 73,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 66,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2015-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 60
+        },
+        {
+          "label": "B",
+          "score": 52
+        },
+        {
+          "label": "C",
+          "score": 45
+        },
+        {
+          "label": "D",
+          "score": 38
+        },
+        {
+          "label": "E",
+          "score": 31
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2015 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1501-IAL-Grade-Boundaries_v2.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 60,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 52,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 45,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 38,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 31,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2014-06-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 61
+        },
+        {
+          "label": "B",
+          "score": 53
+        },
+        {
+          "label": "C",
+          "score": 45
+        },
+        {
+          "label": "D",
+          "score": 37
+        },
+        {
+          "label": "E",
+          "score": 29
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 June 2014 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1406_IAL_Grade_Boundaries_v2.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 61,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 53,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 45,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 37,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 29,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "fp1-2014-01-old",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 60
+        },
+        {
+          "label": "B",
+          "score": 52
+        },
+        {
+          "label": "C",
+          "score": 45
+        },
+        {
+          "label": "D",
+          "score": 38
+        },
+        {
+          "label": "E",
+          "score": 31
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方 January 2014 分数线",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/International-A-level/1401-IAL-grade-boundaries-v6.pdf",
+          "kind": "official",
+          "page": 5
+        },
+        {
+          "title": "Pearson 官方 UMS 换算规则",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-statistics/A-level/UMS%28Uniform-Mark-Scheme%29-Awarding-for-Modular-GCE-%28C2000%29.pdf",
+          "kind": "official",
+          "page": 2
+        }
+      ],
+      "unit": "WFM01/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "raw": 75,
+            "ums": 100
+          },
+          {
+            "grade": "A",
+            "raw": 60,
+            "ums": 80
+          },
+          {
+            "grade": "B",
+            "raw": 52,
+            "ums": 70
+          },
+          {
+            "grade": "C",
+            "raw": 45,
+            "ums": 60
+          },
+          {
+            "grade": "D",
+            "raw": 38,
+            "ums": 50
+          },
+          {
+            "grade": "E",
+            "raw": 31,
+            "ums": 40
+          },
+          {
+            "grade": "U",
+            "raw": 0,
+            "ums": 0
+          },
+          {
+            "grade": "Cap",
+            "raw": 75,
+            "ums": 100
+          }
+        ],
+        "method": "official-boundaries-and-rule"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": true
+      },
+      "note": "显示 90 UMS 对应的最低整数卷面分。FP1 为 AS 单元，90 UMS 是学习目标，不是单卷 A* 等级。"
+    },
+    {
+      "paperId": "s2-2026-06-a",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 59
+        },
+        {
+          "label": "B",
+          "score": 50
+        },
+        {
+          "label": "C",
+          "score": 41
+        },
+        {
+          "label": "D",
+          "score": 33
+        },
+        {
+          "label": "E",
+          "score": 25
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01A",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 67
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 59
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 50
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 41
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 33
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 25
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 17
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 67,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2026-06",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 61
+        },
+        {
+          "label": "B",
+          "score": 53
+        },
+        {
+          "label": "C",
+          "score": 46
+        },
+        {
+          "label": "D",
+          "score": 39
+        },
+        {
+          "label": "E",
+          "score": 32
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 68
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 61
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 53
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 46
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 39
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 32
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 25
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 68,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2026-01-a",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 58
+        },
+        {
+          "label": "B",
+          "score": 49
+        },
+        {
+          "label": "C",
+          "score": 40
+        },
+        {
+          "label": "D",
+          "score": 32
+        },
+        {
+          "label": "E",
+          "score": 24
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01A",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 66
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 58
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 49
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 40
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 32
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 24
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 16
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 66,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2026-01",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 60
+        },
+        {
+          "label": "B",
+          "score": 51
+        },
+        {
+          "label": "C",
+          "score": 42
+        },
+        {
+          "label": "D",
+          "score": 33
+        },
+        {
+          "label": "E",
+          "score": 25
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 67
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 60
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 51
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 42
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 33
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 25
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 17
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 67,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2025-10-a",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 65
+        },
+        {
+          "label": "B",
+          "score": 56
+        },
+        {
+          "label": "C",
+          "score": 47
+        },
+        {
+          "label": "D",
+          "score": 38
+        },
+        {
+          "label": "E",
+          "score": 30
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01A",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 70
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 65
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 56
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 47
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 38
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 30
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 22
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 70,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2025-10",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 60
+        },
+        {
+          "label": "B",
+          "score": 51
+        },
+        {
+          "label": "C",
+          "score": 43
+        },
+        {
+          "label": "D",
+          "score": 35
+        },
+        {
+          "label": "E",
+          "score": 27
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 67
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 60
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 51
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 43
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 35
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 27
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 19
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 67,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2025-06",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 60
+        },
+        {
+          "label": "B",
+          "score": 51
+        },
+        {
+          "label": "C",
+          "score": 43
+        },
+        {
+          "label": "D",
+          "score": 35
+        },
+        {
+          "label": "E",
+          "score": 27
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 67
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 60
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 51
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 43
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 35
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 27
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 19
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 67,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2025-01",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 59
+        },
+        {
+          "label": "B",
+          "score": 51
+        },
+        {
+          "label": "C",
+          "score": 43
+        },
+        {
+          "label": "D",
+          "score": 35
+        },
+        {
+          "label": "E",
+          "score": 27
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 67
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 59
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 51
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 43
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 35
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 27
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 19
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 67,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2024-10",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 58
+        },
+        {
+          "label": "B",
+          "score": 49
+        },
+        {
+          "label": "C",
+          "score": 41
+        },
+        {
+          "label": "D",
+          "score": 33
+        },
+        {
+          "label": "E",
+          "score": 25
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 66
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 58
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 49
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 41
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 33
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 25
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 17
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 66,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2024-06",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 58
+        },
+        {
+          "label": "B",
+          "score": 49
+        },
+        {
+          "label": "C",
+          "score": 40
+        },
+        {
+          "label": "D",
+          "score": 31
+        },
+        {
+          "label": "E",
+          "score": 23
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 66
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 58
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 49
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 40
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 31
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 23
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 15
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 74
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 66,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "s2-2024-01",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 57
+        },
+        {
+          "label": "B",
+          "score": 48
+        },
+        {
+          "label": "C",
+          "score": 40
+        },
+        {
+          "label": "D",
+          "score": 32
+        },
+        {
+          "label": "E",
+          "score": 24
+        }
+      ],
+      "sources": [
+        {
+          "title": "Pearson 官方原始分／UMS 换算器",
+          "url": "https://qualifications.pearson.com/en/support/support-topics/results-certification/understanding-marks-and-grades/converting-marks-points-and-grades.html",
+          "kind": "official"
+        }
+      ],
+      "unit": "WST02/01",
+      "conversion": {
+        "points": [
+          {
+            "grade": "Max Mark",
+            "ums": 100,
+            "raw": 75
+          },
+          {
+            "grade": "*",
+            "ums": 90,
+            "raw": 66
+          },
+          {
+            "grade": "A",
+            "ums": 80,
+            "raw": 57
+          },
+          {
+            "grade": "B",
+            "ums": 70,
+            "raw": 48
+          },
+          {
+            "grade": "C",
+            "ums": 60,
+            "raw": 40
+          },
+          {
+            "grade": "D",
+            "ums": 50,
+            "raw": 32
+          },
+          {
+            "grade": "E",
+            "ums": 40,
+            "raw": 24
+          },
+          {
+            "grade": "N",
+            "ums": 30,
+            "raw": 16
+          },
+          {
+            "grade": "U",
+            "ums": 0,
+            "raw": 0
+          },
+          {
+            "grade": "Cap",
+            "ums": 100,
+            "raw": 75
+          }
+        ],
+        "method": "official-converter"
+      },
+      "target": {
+        "label": "90 UMS",
+        "score": 66,
+        "derived": false
+      },
+      "note": "90 UMS 对应官方公布的 A2 单元 a* 边界；它不等同于整套 A Level 的 A* 成绩。"
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 46
+        },
+        {
+          "label": "B",
+          "score": 37
+        },
+        {
+          "label": "C",
+          "score": 30
+        },
+        {
+          "label": "D",
+          "score": 23
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/749702-computer-science-9618-november-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 46
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 233,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 46
+        },
+        {
+          "label": "B",
+          "score": 37
+        },
+        {
+          "label": "C",
+          "score": 30
+        },
+        {
+          "label": "D",
+          "score": 23
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/749702-computer-science-9618-november-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 46
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 233,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 46
+        },
+        {
+          "label": "B",
+          "score": 37
+        },
+        {
+          "label": "C",
+          "score": 29
+        },
+        {
+          "label": "D",
+          "score": 21
+        },
+        {
+          "label": "E",
+          "score": 14
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/749702-computer-science-9618-november-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 46
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 235,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 39
+        },
+        {
+          "label": "C",
+          "score": 31
+        },
+        {
+          "label": "D",
+          "score": 24
+        },
+        {
+          "label": "E",
+          "score": 17
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/727981-computer-science-9618-november-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 230,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 42
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 26
+        },
+        {
+          "label": "D",
+          "score": 19
+        },
+        {
+          "label": "E",
+          "score": 12
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/727981-computer-science-9618-november-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 42
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 215,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 45
+        },
+        {
+          "label": "B",
+          "score": 38
+        },
+        {
+          "label": "C",
+          "score": 30
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 15
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/727981-computer-science-9618-november-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 45
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 228,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 46
+        },
+        {
+          "label": "B",
+          "score": 39
+        },
+        {
+          "label": "C",
+          "score": 32
+        },
+        {
+          "label": "D",
+          "score": 25
+        },
+        {
+          "label": "E",
+          "score": 18
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/705220-computer-science-9618-november-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 46
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 229,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 33
+        },
+        {
+          "label": "D",
+          "score": 26
+        },
+        {
+          "label": "E",
+          "score": 18
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/705220-computer-science-9618-november-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 232,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 46
+        },
+        {
+          "label": "B",
+          "score": 39
+        },
+        {
+          "label": "C",
+          "score": 32
+        },
+        {
+          "label": "D",
+          "score": 25
+        },
+        {
+          "label": "E",
+          "score": 18
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 November 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/705220-computer-science-9618-november-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 46
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 229,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 45
+        },
+        {
+          "label": "B",
+          "score": 38
+        },
+        {
+          "label": "C",
+          "score": 30
+        },
+        {
+          "label": "D",
+          "score": 23
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w22_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 45
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 222,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 45
+        },
+        {
+          "label": "B",
+          "score": 38
+        },
+        {
+          "label": "C",
+          "score": 31
+        },
+        {
+          "label": "D",
+          "score": 24
+        },
+        {
+          "label": "E",
+          "score": 18
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w22_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 45
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 221,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 41
+        },
+        {
+          "label": "B",
+          "score": 33
+        },
+        {
+          "label": "C",
+          "score": 26
+        },
+        {
+          "label": "D",
+          "score": 20
+        },
+        {
+          "label": "E",
+          "score": 14
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w22_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 41
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 218,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 44
+        },
+        {
+          "label": "B",
+          "score": 36
+        },
+        {
+          "label": "C",
+          "score": 29
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 15
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 44
+      },
+      "qualificationReferences": [],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 44
+        },
+        {
+          "label": "B",
+          "score": 36
+        },
+        {
+          "label": "C",
+          "score": 29
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 15
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 44
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 218,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 44
+        },
+        {
+          "label": "B",
+          "score": 36
+        },
+        {
+          "label": "C",
+          "score": 29
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 15
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 November 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_w21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 44
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 218,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 56
+        },
+        {
+          "label": "B",
+          "score": 48
+        },
+        {
+          "label": "C",
+          "score": 41
+        },
+        {
+          "label": "D",
+          "score": 35
+        },
+        {
+          "label": "E",
+          "score": 29
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2026 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/761508-computer-science-9618-june-2026-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 56
+      },
+      "qualificationReferences": [],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 51
+        },
+        {
+          "label": "B",
+          "score": 43
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 29
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2026 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/761508-computer-science-9618-june-2026-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 51
+      },
+      "qualificationReferences": [],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 51
+        },
+        {
+          "label": "B",
+          "score": 43
+        },
+        {
+          "label": "C",
+          "score": 36
+        },
+        {
+          "label": "D",
+          "score": 29
+        },
+        {
+          "label": "E",
+          "score": 22
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2026 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/761508-computer-science-9618-june-2026-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 51
+      },
+      "qualificationReferences": [],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 62
+        },
+        {
+          "label": "B",
+          "score": 58
+        },
+        {
+          "label": "C",
+          "score": 50
+        },
+        {
+          "label": "D",
+          "score": 42
+        },
+        {
+          "label": "E",
+          "score": 35
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/740314-computer-science-9618-june-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 62
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 240,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 50
+        },
+        {
+          "label": "B",
+          "score": 43
+        },
+        {
+          "label": "C",
+          "score": 35
+        },
+        {
+          "label": "D",
+          "score": 27
+        },
+        {
+          "label": "E",
+          "score": 19
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/740314-computer-science-9618-june-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 50
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 228,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 49
+        },
+        {
+          "label": "B",
+          "score": 42
+        },
+        {
+          "label": "C",
+          "score": 34
+        },
+        {
+          "label": "D",
+          "score": 26
+        },
+        {
+          "label": "E",
+          "score": 19
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2025 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/740314-computer-science-9618-june-2025-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 49
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 228,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 33
+        },
+        {
+          "label": "D",
+          "score": 27
+        },
+        {
+          "label": "E",
+          "score": 21
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/716004-computer-science-9618-june-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 222,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 33
+        },
+        {
+          "label": "D",
+          "score": 27
+        },
+        {
+          "label": "E",
+          "score": 21
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/716004-computer-science-9618-june-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 222,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 40
+        },
+        {
+          "label": "C",
+          "score": 33
+        },
+        {
+          "label": "D",
+          "score": 27
+        },
+        {
+          "label": "E",
+          "score": 21
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2024 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/716004-computer-science-9618-june-2024-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 222,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 43
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/690784-computer-science-9618-june-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 43
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 231,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 43
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/690784-computer-science-9618-june-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 43
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 231,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 43
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2023 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/690784-computer-science-9618-june-2023-grade-threshold-table.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 43
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 231,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 43
+        },
+        {
+          "label": "B",
+          "score": 31
+        },
+        {
+          "label": "C",
+          "score": 25
+        },
+        {
+          "label": "D",
+          "score": 19
+        },
+        {
+          "label": "E",
+          "score": 14
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/659652-cambridge-international-as-and-a-level-computer-science-9618-grade-threshold-table-june-2022.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 43
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 233,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 38
+        },
+        {
+          "label": "B",
+          "score": 26
+        },
+        {
+          "label": "C",
+          "score": 22
+        },
+        {
+          "label": "D",
+          "score": 18
+        },
+        {
+          "label": "E",
+          "score": 14
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/659652-cambridge-international-as-and-a-level-computer-science-9618-grade-threshold-table-june-2022.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 38
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 229,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 43
+        },
+        {
+          "label": "B",
+          "score": 31
+        },
+        {
+          "label": "C",
+          "score": 25
+        },
+        {
+          "label": "D",
+          "score": 19
+        },
+        {
+          "label": "E",
+          "score": 14
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2022 June 分数线",
+          "url": "https://www.cambridgeinternational.org/Images/659652-cambridge-international-as-and-a-level-computer-science-9618-grade-threshold-table-june-2022.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 43
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 234,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 41
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 June 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_s21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 41
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 213,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 45
+        },
+        {
+          "label": "B",
+          "score": 38
+        },
+        {
+          "label": "C",
+          "score": 32
+        },
+        {
+          "label": "D",
+          "score": 26
+        },
+        {
+          "label": "E",
+          "score": 20
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 June 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_s21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 45
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 219,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 41
+        },
+        {
+          "label": "B",
+          "score": 34
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 22
+        },
+        {
+          "label": "E",
+          "score": 16
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2021 June 分数线",
+          "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9618_s21_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 41
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 213,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 37
+        },
+        {
+          "label": "C",
+          "score": 28
+        },
+        {
+          "label": "D",
+          "score": 19
+        },
+        {
+          "label": "E",
+          "score": 10
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2020 November 分数线",
+          "url": "https://bestexamhelp.com/exam/cambridge-international-a-level/computer-science-9608/2020/9608_w20_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AZ",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 222,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 47
+        },
+        {
+          "label": "B",
+          "score": 39
+        },
+        {
+          "label": "C",
+          "score": 32
+        },
+        {
+          "label": "D",
+          "score": 26
+        },
+        {
+          "label": "E",
+          "score": 20
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2020 November 分数线",
+          "url": "https://bestexamhelp.com/exam/cambridge-international-a-level/computer-science-9608/2020/9608_w20_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 47
+      },
+      "qualificationReferences": [
+        {
+          "option": "AY",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 229,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "A",
+          "score": 37
+        },
+        {
+          "label": "B",
+          "score": 27
+        },
+        {
+          "label": "C",
+          "score": 21
+        },
+        {
+          "label": "D",
+          "score": 15
+        },
+        {
+          "label": "E",
+          "score": 10
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cambridge 官方 2020 November 分数线",
+          "url": "https://bestexamhelp.com/exam/cambridge-international-a-level/computer-science-9608/2020/9608_w20_gt.pdf",
+          "kind": "reproduction",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "P2 官方 A 线",
+        "score": 37
+      },
+      "qualificationReferences": [
+        {
+          "option": "AX",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 212,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "status": "unavailable",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [],
+      "sources": [
+        {
+          "title": "Cambridge 官方六月场次取消说明",
+          "url": "https://www.cambridgeinternational.org/news/news-details/view/update-for-cambridge-schools-on-the-june-2020-series-20200904/",
+          "kind": "official"
+        }
+      ],
+      "note": "Cambridge 取消了 2020 年六月场次考试，没有常规考试分数线。"
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "status": "unavailable",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [],
+      "sources": [
+        {
+          "title": "Cambridge 官方六月场次取消说明",
+          "url": "https://www.cambridgeinternational.org/news/news-details/view/update-for-cambridge-schools-on-the-june-2020-series-20200904/",
+          "kind": "official"
+        }
+      ],
+      "note": "Cambridge 取消了 2020 年六月场次考试，没有常规考试分数线。"
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "status": "unavailable",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [],
+      "sources": [
+        {
+          "title": "Cambridge 官方六月场次取消说明",
+          "url": "https://www.cambridgeinternational.org/news/news-details/view/update-for-cambridge-schools-on-the-june-2020-series-20200904/",
+          "kind": "official"
+        }
+      ],
+      "note": "Cambridge 取消了 2020 年六月场次考试，没有常规考试分数线。"
+    },
+    {
+      "paperId": "2025-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "2025 年成绩线公开转载",
+          "url": "https://en.bpho.net.cn/news/59.html",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 55
+      }
+    },
+    {
+      "paperId": "2025-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "2025 年成绩线公开转载",
+          "url": "https://en.bpho.net.cn/news/59.html",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 55
+      }
+    },
+    {
+      "paperId": "2024-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "2024 年分数区间公开转载",
+          "url": "https://www.qulexue.cn/jingsai/8592.shtml",
+          "kind": "reference"
+        },
+        {
+          "title": "翰林教育 57.5 分临界口径",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 公开转载给出整数区间 58–100，亦有 57.5 分临界口径；半分成绩请以官方结果为准。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 58
+      }
+    },
+    {
+      "paperId": "2024-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "2024 年分数区间公开转载",
+          "url": "https://www.qulexue.cn/jingsai/8592.shtml",
+          "kind": "reference"
+        },
+        {
+          "title": "翰林教育 57.5 分临界口径",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 公开转载给出整数区间 58–100，亦有 57.5 分临界口径；半分成绩请以官方结果为准。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 58
+      }
+    },
+    {
+      "paperId": "2023-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 45
+      }
+    },
+    {
+      "paperId": "2023-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 45
+      }
+    },
+    {
+      "paperId": "2022-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 39
+      }
+    },
+    {
+      "paperId": "2022-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 39
+      }
+    },
+    {
+      "paperId": "2021-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 49
+      }
+    },
+    {
+      "paperId": "2021-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 49
+      }
+    },
+    {
+      "paperId": "2020-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 54
+      }
+    },
+    {
+      "paperId": "2020-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 54
+      }
+    },
+    {
+      "paperId": "2019-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 60
+      }
+    },
+    {
+      "paperId": "2019-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 60
+      }
+    },
+    {
+      "paperId": "2018-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 61
+      }
+    },
+    {
+      "paperId": "2018-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 61
+      }
+    },
+    {
+      "paperId": "2017-s1",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 81
+      }
+    },
+    {
+      "paperId": "2017-s2",
+      "status": "reference",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "翰林教育历年 Top Gold 参考区间",
+          "url": "https://www.hanlin.com/bpho",
+          "kind": "reference"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 该数值来自公开转载，尚未取得可核验的官方原始分数表，仅作复习参考。",
+      "target": {
+        "label": "Top Gold 参考线",
+        "score": 81
+      }
+    },
+    {
+      "paperId": "2016-s1",
+      "status": "verified",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [
+        {
+          "label": "Top Gold",
+          "score": 70
+        },
+        {
+          "label": "Gold",
+          "score": 63
+        },
+        {
+          "label": "Silver",
+          "score": 52
+        },
+        {
+          "label": "Bronze I",
+          "score": 44
+        },
+        {
+          "label": "Bronze II",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "ASDAN 中国区 2016–2017 成绩分析报告",
+          "url": "https://seed-static.seedasdan.com/web/PDF/BPHOCamp_analysis.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 1，不单独判定奖项。",
+      "target": {
+        "label": "Top Gold",
+        "score": 70
+      }
+    },
+    {
+      "paperId": "2016-s2",
+      "status": "verified",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [
+        {
+          "label": "Top Gold",
+          "score": 70
+        },
+        {
+          "label": "Gold",
+          "score": 63
+        },
+        {
+          "label": "Silver",
+          "score": 52
+        },
+        {
+          "label": "Bronze I",
+          "score": 44
+        },
+        {
+          "label": "Bronze II",
+          "score": 38
+        }
+      ],
+      "sources": [
+        {
+          "title": "ASDAN 中国区 2016–2017 成绩分析报告",
+          "url": "https://seed-static.seedasdan.com/web/PDF/BPHOCamp_analysis.pdf",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 2，不单独判定奖项。",
+      "target": {
+        "label": "Top Gold",
+        "score": 70
+      }
+    },
+    {
+      "paperId": "2015-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2015-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2014-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2014-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2013-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2013-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2012-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2012-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 80,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 80），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2011-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2011-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2010-s1",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 1，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "2010-s2",
+      "status": "unavailable",
+      "scope": "round1",
+      "maxScore": 100,
+      "bands": [],
+      "sources": [
+        {
+          "title": "BPhO 官方 Round 1 说明",
+          "url": "https://www.bpho.org.uk/bpho/round-1.html",
+          "kind": "official"
+        }
+      ],
+      "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    }
+  ]
+}
