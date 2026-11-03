@@ -60,6 +60,8 @@ describe('精确场次的分数线与成绩比较',()=>{
       for(const reference of row.qualificationReferences??[])expect(reference.components).toContain(variant);
     }
     expect(get('cs-9618-2021-w-23').qualificationReferences).toEqual([]);
+    expect(get('cs-9618-2026-s-21').qualificationReferences![0].score).toBe(240);
+    expect(get('cs-9618-2026-s-23').qualificationReferences![0].score).toBe(250);
   });
   it('停考和未知试卷不借用其他年份，专项组卷不套用整卷线',()=>{
     expect(get('fp1-2021-06-new').status).toBe('unavailable');

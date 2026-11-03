@@ -4342,8 +4342,20 @@
         "label": "P2 官方 A 线",
         "score": 56
       },
-      "qualificationReferences": [],
-      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+      "qualificationReferences": [
+        {
+          "option": "线性评估",
+          "components": [
+            "13",
+            "23",
+            "33",
+            "43"
+          ],
+          "score": 250,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
     },
     {
       "paperId": "cs-9618-2026-s-22",
@@ -4384,8 +4396,20 @@
         "label": "P2 官方 A 线",
         "score": 51
       },
-      "qualificationReferences": [],
-      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+      "qualificationReferences": [
+        {
+          "option": "线性评估",
+          "components": [
+            "12",
+            "22",
+            "32",
+            "42"
+          ],
+          "score": 240,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
     },
     {
       "paperId": "cs-9618-2026-s-21",
@@ -4426,8 +4450,20 @@
         "label": "P2 官方 A 线",
         "score": 51
       },
-      "qualificationReferences": [],
-      "note": "P2 单卷只设 A–E，没有单卷 A*。官方表未列出含此卷号的同场次完整 A Level 组合，A* 总分线请按实际报考组合查原表。"
+      "qualificationReferences": [
+        {
+          "option": "线性评估",
+          "components": [
+            "11",
+            "21",
+            "31",
+            "41"
+          ],
+          "score": 240,
+          "maxScore": 300
+        }
+      ],
+      "note": "P2 单卷只设 A–E，没有单卷 A*。下方 A* 为同场次、含本卷号的整套 A Level 总分线，仅供参考。"
     },
     {
       "paperId": "cs-9618-2025-s-23",
