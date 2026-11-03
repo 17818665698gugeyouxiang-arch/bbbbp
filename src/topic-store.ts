@@ -3,7 +3,7 @@ import {type Paper,type Grade,uid,validScore} from './model';
 import {type TopicAttempt,type TopicRef,type TopicId,validTopicAttempt,resolveTopic} from './topics';
 
 export async function startTopic(refs:TopicRef[],years:number[],topics:TopicId[],papers:Paper[],store:StudyDB=db){
- const now=Date.now(),a:TopicAttempt={id:uid(),kind:'fp1-topics',years:[...years],topics:[...topics],refs:refs.map(r=>({...r})),questionIds:refs.map(r=>r.questionId),startedAt:now,updatedAt:now,position:0,markingPosition:0,done:[],grades:{}};
+ const now=Date.now(),a:TopicAttempt={id:uid(),kind:refs[0]&&papers.find(p=>p.id===refs[0].paperId)?.subject==='cs'?'cs-topics':'fp1-topics',years:[...years],topics:[...topics],refs:refs.map(r=>({...r})),questionIds:refs.map(r=>r.questionId),startedAt:now,updatedAt:now,position:0,markingPosition:0,done:[],grades:{}};
  if(!validTopicAttempt(a,papers))throw Error('请选择有效的年份、题型及完整大题。');
  return store.transaction('rw',[store.sessions,store.topicAttempts],async()=>{
   if((await store.sessions.toArray()).some(s=>!s.submittedAt&&!s.archived)||(await store.topicAttempts.toArray()).some(s=>!s.submittedAt))throw Error('已有未交卷训练，请先继续并交卷。');

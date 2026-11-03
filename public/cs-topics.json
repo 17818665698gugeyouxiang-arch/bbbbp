@@ -1,0 +1,4108 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q2",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-23",
+      "questionId": "cs-9618-2025-w-23-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q2",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q5",
+      "primary": "cs-development",
+      "related": [
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q7",
+      "primary": "cs-subprograms",
+      "related": [],
+      "tags": [
+        "过程与函数",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-22",
+      "questionId": "cs-9618-2025-w-22-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-files"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q2",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q5",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "查找与排序",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-w-21",
+      "questionId": "cs-9618-2025-w-21-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q2",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q5",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-23",
+      "questionId": "cs-9618-2024-w-23-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q2",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q4",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-22",
+      "questionId": "cs-9618-2024-w-22-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q2",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q5",
+      "primary": "cs-development",
+      "related": [
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-w-21",
+      "questionId": "cs-9618-2024-w-21-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q2",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-testing"
+      ],
+      "tags": [
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q4",
+      "primary": "cs-control",
+      "related": [
+        "cs-expressions"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "布尔与表达式",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q7",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "过程与函数",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-23",
+      "questionId": "cs-9618-2023-w-23-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q2",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "抽象数据类型",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q4",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q6",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-22",
+      "questionId": "cs-9618-2023-w-22-q8",
+      "primary": "cs-adt",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q2",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q7",
+      "primary": "cs-development",
+      "related": [],
+      "tags": [
+        "程序开发与设计"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-w-21",
+      "questionId": "cs-9618-2023-w-21-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q3",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q4",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q5",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "过程与函数",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-23",
+      "questionId": "cs-9618-2022-w-23-q7",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q2",
+      "primary": "cs-files",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q4",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q5",
+      "primary": "cs-expressions",
+      "related": [],
+      "tags": [
+        "数据类型与表达式",
+        "布尔与表达式"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-22",
+      "questionId": "cs-9618-2022-w-22-q7",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q4",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "数组与记录",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q6",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q7",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-w-21",
+      "questionId": "cs-9618-2022-w-21-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q2",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-23",
+      "questionId": "cs-9618-2021-w-23-q6",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q4",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-22",
+      "questionId": "cs-9618-2021-w-22-q6",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q2",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-w-21",
+      "questionId": "cs-9618-2021-w-21-q6",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q1",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q2",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q3",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q4",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q6",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "抽象数据类型",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q7",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-23",
+      "questionId": "cs-9618-2026-s-23-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "程序开发与设计",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q4",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q5",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-22",
+      "questionId": "cs-9618-2026-s-22-q6",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q1",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q2",
+      "primary": "cs-expressions",
+      "related": [],
+      "tags": [
+        "数据类型与表达式"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q3",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q4",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q5",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q6",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q7",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q8",
+      "primary": "cs-search-sort",
+      "related": [],
+      "tags": [
+        "查找与排序"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2026-s-21",
+      "questionId": "cs-9618-2026-s-21-q9",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q1",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-development",
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "过程与函数",
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q2",
+      "primary": "cs-adt",
+      "related": [],
+      "tags": [
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q3",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q4",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "文件读写",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q5",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q6",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "过程与函数",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-23",
+      "questionId": "cs-9618-2025-s-23-q7",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q3",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q6",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-22",
+      "questionId": "cs-9618-2025-s-22-q7",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-search-sort"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "查找与排序"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q2",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q3",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q4",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q5",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q6",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-testing"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2025-s-21",
+      "questionId": "cs-9618-2025-s-21-q7",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q1",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "过程与函数",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q2",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "数组与记录",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q5",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "过程与函数",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-expressions",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-23",
+      "questionId": "cs-9618-2024-s-23-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-files"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q2",
+      "primary": "cs-control",
+      "related": [
+        "cs-testing"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q4",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-22",
+      "questionId": "cs-9618-2024-s-22-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q2",
+      "primary": "cs-control",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "抽象数据类型",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q5",
+      "primary": "cs-testing",
+      "related": [],
+      "tags": [
+        "追踪、测试与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q6",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2024-s-21",
+      "questionId": "cs-9618-2024-s-21-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q1",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-files"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q2",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-files"
+      ],
+      "tags": [
+        "选择与循环",
+        "文件读写",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q4",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q5",
+      "primary": "cs-testing",
+      "related": [],
+      "tags": [
+        "追踪、测试与调试",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-expressions",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-23",
+      "questionId": "cs-9618-2023-s-23-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q2",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-subprograms",
+        "cs-files"
+      ],
+      "tags": [
+        "参数与作用域",
+        "文件读写",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q4",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-22",
+      "questionId": "cs-9618-2023-s-22-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "布尔与表达式",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q2",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q4",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q5",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q6",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q7",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2023-s-21",
+      "questionId": "cs-9618-2023-s-21-q8",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q3",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-development"
+      ],
+      "tags": [
+        "过程与函数",
+        "程序开发与设计",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q6",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q7",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "文件处理",
+        "布尔与表达式",
+        "选择与循环",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q8",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-23",
+      "questionId": "cs-9618-2022-s-23-q9",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q1",
+      "primary": "cs-testing",
+      "related": [
+        "cs-development",
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q2",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q3",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "布尔与表达式",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q4",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q5",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q7",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-22",
+      "questionId": "cs-9618-2022-s-22-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q2",
+      "primary": "cs-development",
+      "related": [],
+      "tags": [
+        "程序开发与设计"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q3",
+      "primary": "cs-development",
+      "related": [
+        "cs-arrays"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q4",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q6",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q7",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2022-s-21",
+      "questionId": "cs-9618-2022-s-21-q8",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q5",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q6",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "抽象数据类型",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-23",
+      "questionId": "cs-9618-2021-s-23-q7",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q3",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q4",
+      "primary": "cs-control",
+      "related": [],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q6",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q7",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-22",
+      "questionId": "cs-9618-2021-s-22-q8",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-expressions",
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "字符串处理",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q5",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q6",
+      "primary": "cs-adt",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "抽象数据类型",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9618-2021-s-21",
+      "questionId": "cs-9618-2021-s-21-q7",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "questionId": "cs-9608-2020-w-23-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "questionId": "cs-9608-2020-w-23-q2",
+      "primary": "cs-control",
+      "related": [
+        "cs-expressions",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "questionId": "cs-9608-2020-w-23-q3",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "查找与排序"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "questionId": "cs-9608-2020-w-23-q4",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-development",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "查找与排序",
+        "程序开发与设计",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-23",
+      "questionId": "cs-9608-2020-w-23-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-search-sort",
+        "cs-adt"
+      ],
+      "tags": [
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "查找与排序",
+        "抽象数据类型"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "questionId": "cs-9608-2020-w-22-q1",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "questionId": "cs-9608-2020-w-22-q2",
+      "primary": "cs-control",
+      "related": [
+        "cs-development",
+        "cs-expressions"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "程序开发与设计",
+        "字符串处理",
+        "选择与循环"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "questionId": "cs-9608-2020-w-22-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "questionId": "cs-9608-2020-w-22-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-22",
+      "questionId": "cs-9608-2020-w-22-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-files"
+      ],
+      "tags": [
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "questionId": "cs-9608-2020-w-21-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "布尔与表达式",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "questionId": "cs-9608-2020-w-21-q2",
+      "primary": "cs-files",
+      "related": [
+        "cs-development",
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "程序开发与设计",
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "questionId": "cs-9608-2020-w-21-q3",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "questionId": "cs-9608-2020-w-21-q4",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-w-21",
+      "questionId": "cs-9608-2020-w-21-q5",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-files"
+      ],
+      "tags": [
+        "字符串处理",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "questionId": "cs-9608-2020-s-23-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "questionId": "cs-9608-2020-s-23-q2",
+      "primary": "cs-subprograms",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "过程与函数",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "questionId": "cs-9608-2020-s-23-q3",
+      "primary": "cs-testing",
+      "related": [
+        "cs-control"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "questionId": "cs-9608-2020-s-23-q4",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-23",
+      "questionId": "cs-9608-2020-s-23-q5",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "参数与作用域",
+        "文件读写",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q3",
+      "primary": "cs-control",
+      "related": [
+        "cs-subprograms"
+      ],
+      "tags": [
+        "控制结构与算法编写",
+        "选择与循环",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q4",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-development",
+        "cs-expressions",
+        "cs-control",
+        "cs-search-sort"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "布尔与表达式",
+        "选择与循环",
+        "数组与记录",
+        "查找与排序"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q5",
+      "primary": "cs-expressions",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-search-sort"
+      ],
+      "tags": [
+        "数据类型与表达式",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "查找与排序"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-22",
+      "questionId": "cs-9608-2020-s-22-q6",
+      "primary": "cs-files",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms",
+        "cs-search-sort",
+        "cs-testing"
+      ],
+      "tags": [
+        "文件处理",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q1",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q2",
+      "primary": "cs-development",
+      "related": [
+        "cs-control",
+        "cs-subprograms",
+        "cs-testing"
+      ],
+      "tags": [
+        "程序开发与设计",
+        "选择与循环",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q3",
+      "primary": "cs-arrays",
+      "related": [
+        "cs-control",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q4",
+      "primary": "cs-testing",
+      "related": [
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "追踪、测试与调试",
+        "数组与记录",
+        "参数与作用域",
+        "追踪与调试"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q5",
+      "primary": "cs-search-sort",
+      "related": [
+        "cs-expressions",
+        "cs-control",
+        "cs-arrays"
+      ],
+      "tags": [
+        "查找与排序",
+        "字符串处理",
+        "选择与循环",
+        "数组与记录"
+      ]
+    },
+    {
+      "paperId": "cs-9608-2020-s-21",
+      "questionId": "cs-9608-2020-s-21-q6",
+      "primary": "cs-files",
+      "related": [
+        "cs-control",
+        "cs-arrays",
+        "cs-subprograms"
+      ],
+      "tags": [
+        "文件处理",
+        "选择与循环",
+        "数组与记录",
+        "参数与作用域",
+        "文件读写"
+      ]
+    }
+  ]
+}

@@ -25,7 +25,7 @@ export function localData(directory){
   if(req.headers.host!==`127.0.0.1:${req.socket.localPort}`||origin&&origin!==`http://${req.headers.host}`||req.headers['sec-fetch-site']==='cross-site'){json(res,403,{error:'只允许从本机网站访问学习数据。'});return true;}
   try{
    if(url.pathname==='/api/study'&&req.method==='GET'){
-    await queue;const state=await ready;json(res,200,{...state,capabilities:['fp1-topics-v1'],data:{...empty(),...state.data}});return true;
+    await queue;const state=await ready;json(res,200,{...state,capabilities:['fp1-topics-v1','cs-topics-v1'],data:{...empty(),...state.data}});return true;
    }
    if(url.pathname.startsWith('/api/photos/')){
     const id=decodeURIComponent(url.pathname.slice('/api/photos/'.length));if(!id||id.length>500)throw Error('图片编号无效');
@@ -51,15 +51,15 @@ export function localData(directory){
       const ids=new Set(data[t].map(r=>r.id));
       if((current.data[t]??[]).some(r=>!ids.has(r.id))){json(res,422,{error:'已阻止同步删除历史记录。请刷新网站重新合并；旧记录仍完整保留。'});return;}
      }
-     if(!data.topicAttempts.every(validTopicRecord))throw Error('FP1 专项记录无效');
+     if(!data.topicAttempts.every(validTopicRecord))throw Error('专项记录无效');
      const allIds=[...data.sessions,...data.topicAttempts].map(r=>r.id);if(new Set(allIds).size!==allIds.length)throw Error('训练编号冲突');
-     for(const old of current.data.topicAttempts??[]){const next=data.topicAttempts.find(a=>a.id===old.id);if(next&&['refs','questionIds','years','topics','startedAt'].some(k=>JSON.stringify(old[k])!==JSON.stringify(next[k])))throw Error('专项试卷开始后不可修改');}
+     for(const old of current.data.topicAttempts??[]){const next=data.topicAttempts.find(a=>a.id===old.id);if(next&&['kind','refs','questionIds','years','topics','startedAt'].some(k=>JSON.stringify(old[k])!==JSON.stringify(next[k])))throw Error('专项试卷开始后不可修改');}
      for(const s of data.sessions)if(typeof s.paperId!=='string'||!Array.isArray(s.questionIds)||!s.grades||!Number.isFinite(s.startedAt))throw Error('训练记录无效');
      for(const a of data.criticalAttempts){const q=a.question;if(!q||!['binomial','poisson'].includes(q.distribution)||!['normal','closest'].includes(q.rule)||!['lower','upper','two'].includes(q.tail)||![.05,.1].includes(q.sig)||!Number.isFinite(a.startedAt)||a.startedAt<=0||!Number.isFinite(a.updatedAt)||a.updatedAt<a.startedAt||typeof a.lower!=='string'||typeof a.upper!=='string'||a.lower.length>20||a.upper.length>20||a.submittedAt!==undefined&&(!Number.isFinite(a.submittedAt)||a.submittedAt<a.startedAt||typeof a.correct!=='boolean'))throw Error('专项记录无效');}
      if(!payload.migration&&(current.data.criticalAttempts??[]).filter(a=>!a.submittedAt).length<=1&&data.criticalAttempts.filter(a=>!a.submittedAt).length>1)throw Error('其他浏览器已有进行中的专项测试，请先完成。');
      const oldPhotos=new Map([...current.data.photos,...(current.data.csAnswerPhotos??[])].map(p=>[p.id,p]));
      for(const p of [...data.photos,...data.csAnswerPhotos]){if(!/^image\/(jpeg|png|webp|gif|avif|bmp)$/.test(p.mime)||typeof p.hash!=='string')throw Error('图片信息无效');if(oldPhotos.get(p.id)?.hash===p.hash){await stat(image(p.id));continue;}const bytes=await readFile(image(p.id));if(createHash('sha256').update(bytes).digest('hex')!==p.hash)throw Error('图片校验失败，未保存记录');}
-     const answers=new Map(data.csAnswers.map(a=>[a.id,a]));for(const a of data.csAnswers){const session=data.sessions.find(s=>s.id===a.sessionId);if(!session?.questionIds.includes(a.questionId)||typeof a.partId!=='string'||typeof a.text!=='string'||a.text.length>200000||!Number.isFinite(a.updatedAt))throw Error('计算机作答数据无效');}if(data.csAnswerPhotos.some(p=>!answers.has(p.entryId)))throw Error('作答图片关联不完整');
+     const answers=new Map(data.csAnswers.map(a=>[a.id,a]));for(const a of data.csAnswers){const session=data.sessions.find(s=>s.id===a.sessionId)??data.topicAttempts.find(t=>t.id===a.sessionId&&t.kind==='cs-topics');if(!session?.questionIds.includes(a.questionId)||typeof a.partId!=='string'||typeof a.text!=='string'||a.text.length>200000||!Number.isFinite(a.updatedAt))throw Error('计算机作答数据无效');}if(data.csAnswerPhotos.some(p=>!answers.has(p.entryId)))throw Error('作答图片关联不完整');
      const mids=new Set(data.mistakes.map(r=>r.id)),eids=new Set(data.entries.map(r=>r.id)),sids=new Set([...data.sessions,...data.topicAttempts].map(r=>r.id));
      if(data.entries.some(r=>!mids.has(r.mistakeId)||r.sessionId&&!sids.has(r.sessionId))||data.photos.some(r=>!eids.has(r.entryId))||data.mistakes.some(r=>!Array.isArray(r.sessionIds)||r.sessionIds.some(id=>!sids.has(id))))throw Error('记录关联不完整，未保存修改');
      if(!payload.migration&&[...current.data.sessions,...(current.data.topicAttempts??[])].filter(s=>!s.submittedAt&&!s.archived).length<=1&&[...data.sessions,...data.topicAttempts].filter(s=>!s.submittedAt&&!s.archived).length>1)throw Error('其他浏览器已有未交卷训练，请继续已有训练。');
@@ -67,7 +67,7 @@ export function localData(directory){
      // The UI blocks further starts until the user finishes the existing attempts.
      const next={serverId:current.serverId,revision:current.revision+1,data,updatedAt:Date.now()};
      if(payload.migration){const dest=path.join(directory,`migration-${Date.now()}-${randomUUID()}.json`);await writeFile(dest,JSON.stringify({serverId:current.serverId,data:payload.migration}));}
-     await commit(next);Object.assign(current,next);json(res,200,{...next,capabilities:['fp1-topics-v1']});
+     await commit(next);Object.assign(current,next);json(res,200,{...next,capabilities:['fp1-topics-v1','cs-topics-v1']});
     });queue=job.catch(()=>{});await job;return true;
    }
    json(res,404,{error:'接口不存在'});

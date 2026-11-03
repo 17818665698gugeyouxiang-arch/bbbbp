@@ -7,15 +7,15 @@ import './cs.css';
 export const csAnswerId=(sessionId:string,questionId:string,partId:string)=>`${sessionId}:${questionId}:${partId}`;
 export async function saveCSAnswer(sessionId:string,questionId:string,partId:string,text:string,store:StudyDB=db){
  if(text.length>200000)throw Error('本小问内容过长。');
- return store.transaction('rw',store.sessions,store.csAnswers,async()=>{
-  const s=await store.sessions.get(sessionId);if(!s||s.submittedAt||!s.questionIds.includes(questionId))throw Error('此场训练已交卷或不存在，作答未改动。');
+ return store.transaction('rw',store.sessions,store.topicAttempts,store.csAnswers,async()=>{
+  const s=await store.sessions.get(sessionId)??await store.topicAttempts.get(sessionId);if(s&&'kind' in s&&s.kind!=='cs-topics')throw Error('非计算机专项，不能保存作答。');if(!s||s.submittedAt||!s.questionIds.includes(questionId))throw Error('此场训练已交卷或不存在，作答未改动。');
   const row={id:csAnswerId(sessionId,questionId,partId),sessionId,questionId,partId,text,updatedAt:Date.now()};await store.csAnswers.put(row);return row;
  });
 }
 export async function uploadCSPhotos(sessionId:string,questionId:string,partId:string,files:File[],store:StudyDB=db){
  if(files.some(f=>!/^image\/(jpeg|png|webp|gif|avif|bmp)$/.test(f.type)||f.size>25*1024*1024))throw Error('请选择不超过 25 MB 的 JPG、PNG、WebP 等图片。');
- return store.transaction('rw',store.sessions,store.csAnswers,store.csAnswerPhotos,async()=>{
-  const s=await store.sessions.get(sessionId);if(!s||s.submittedAt||!s.questionIds.includes(questionId))throw Error('训练已交卷，不能修改原始作答。');
+ return store.transaction('rw',store.sessions,store.topicAttempts,store.csAnswers,store.csAnswerPhotos,async()=>{
+  const s=await store.sessions.get(sessionId)??await store.topicAttempts.get(sessionId);if(s&&'kind' in s&&s.kind!=='cs-topics')throw Error('非计算机专项，不能保存作答。');if(!s||s.submittedAt||!s.questionIds.includes(questionId))throw Error('训练已交卷，不能修改原始作答。');
   const id=csAnswerId(sessionId,questionId,partId);if(!await store.csAnswers.get(id))await store.csAnswers.add({id,sessionId,questionId,partId,text:'',updatedAt:Date.now()});
   await store.csAnswerPhotos.bulkAdd(files.map(f=>({id:'cs-photo-'+uid(),entryId:id,name:f.name,blob:f,rotation:0,createdAt:Date.now()})));
  });
