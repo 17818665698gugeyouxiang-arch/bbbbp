@@ -6095,6 +6095,414 @@
         }
       ],
       "note": "分数线适用于整个 Round 1（满分 100），本次仅为 Section 2，不单独判定奖项。 暂未核验到该年的官方 Top Gold 分数线。"
+    },
+    {
+      "paperId": "ukcho-2014-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 65,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 35
+        },
+        {
+          "label": "Silver",
+          "score": 22
+        },
+        {
+          "label": "Bronze",
+          "score": 14
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2014 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=515407",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 35
+      }
+    },
+    {
+      "paperId": "ukcho-2015-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 38
+        },
+        {
+          "label": "Silver",
+          "score": 22
+        },
+        {
+          "label": "Bronze",
+          "score": 14
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2015 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=515428",
+          "kind": "official",
+          "page": 3
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 38
+      }
+    },
+    {
+      "paperId": "ukcho-2016-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 100,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 41
+        },
+        {
+          "label": "Silver",
+          "score": 26
+        },
+        {
+          "label": "Bronze",
+          "score": 18
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2016 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=515435",
+          "kind": "official",
+          "page": 4
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 41
+      }
+    },
+    {
+      "paperId": "ukcho-2017-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 75,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 41
+        },
+        {
+          "label": "Silver",
+          "score": 29
+        },
+        {
+          "label": "Bronze",
+          "score": 20
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2017 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=515433",
+          "kind": "official",
+          "page": 5
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 41
+      }
+    },
+    {
+      "paperId": "ukcho-2018-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 81,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 40
+        },
+        {
+          "label": "Silver",
+          "score": 25
+        },
+        {
+          "label": "Bronze",
+          "score": 16
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2018 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=515415",
+          "kind": "official",
+          "page": 4
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 40
+      }
+    },
+    {
+      "paperId": "ukcho-2019-round1",
+      "status": "unavailable",
+      "scope": "paper",
+      "maxScore": 80,
+      "bands": [],
+      "note": "暂未核验到 2019 年 RSC 官方奖项线，不推算。",
+      "sources": [
+        {
+          "title": "RSC official archive (award boundaries not verified)",
+          "url": "https://edu.rsc.org/uk-chemistry-olympiad/chemistry-olympiad-past-papers/1641.article",
+          "kind": "official"
+        }
+      ]
+    },
+    {
+      "paperId": "ukcho-2020-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 86,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 37
+        },
+        {
+          "label": "Silver",
+          "score": 22
+        },
+        {
+          "label": "Bronze",
+          "score": 12
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2020 Round 1 results",
+          "url": "https://edu.rsc.org/rsc-education-news/uk-chemistry-olympiad-2020-round-1-results-released/4011253.article",
+          "kind": "official"
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 37
+      }
+    },
+    {
+      "paperId": "ukcho-2021-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 85,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 36
+        },
+        {
+          "label": "Silver",
+          "score": 25
+        },
+        {
+          "label": "Bronze",
+          "score": 17
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2021 Round 1 results",
+          "url": "https://edu.rsc.org/rsc-education-news/round-one-results-of-chemistry-olympiad-2021-released/4013313.article",
+          "kind": "official"
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 36
+      }
+    },
+    {
+      "paperId": "ukcho-2022-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 86,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 26
+        },
+        {
+          "label": "Silver",
+          "score": 16
+        },
+        {
+          "label": "Bronze",
+          "score": 9
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2022 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=518811",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 26
+      }
+    },
+    {
+      "paperId": "ukcho-2023-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 86,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 38
+        },
+        {
+          "label": "Silver",
+          "score": 24
+        },
+        {
+          "label": "Bronze",
+          "score": 14
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2023 Round 1 results",
+          "url": "https://edu.rsc.org/rsc-education-news/round-one-results-of-2023-chemistry-olympiad/4017073.article",
+          "kind": "official"
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 38
+      }
+    },
+    {
+      "paperId": "ukcho-2024-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 82,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 30
+        },
+        {
+          "label": "Silver",
+          "score": 18
+        },
+        {
+          "label": "Bronze",
+          "score": 10
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2024 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=533930",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 30
+      }
+    },
+    {
+      "paperId": "ukcho-2025-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 83,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 29
+        },
+        {
+          "label": "Silver",
+          "score": 16
+        },
+        {
+          "label": "Bronze",
+          "score": 9
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2025 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=539827",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 29
+      }
+    },
+    {
+      "paperId": "ukcho-2026-round1",
+      "status": "verified",
+      "scope": "paper",
+      "maxScore": 84,
+      "bands": [
+        {
+          "label": "Gold",
+          "score": 38
+        },
+        {
+          "label": "Silver",
+          "score": 23
+        },
+        {
+          "label": "Bronze",
+          "score": 13
+        }
+      ],
+      "note": "RSC 官方英国 Round 1 奖项最低卷面分；与本次完整试卷自评分比较，不代表官方评奖结果。",
+      "sources": [
+        {
+          "title": "RSC 2026 Round 1 examiners’ report",
+          "url": "https://edu.rsc.org/download?ac=546366",
+          "kind": "official",
+          "page": 1
+        }
+      ],
+      "target": {
+        "label": "Gold 线",
+        "score": 38
+      }
     }
   ]
 }

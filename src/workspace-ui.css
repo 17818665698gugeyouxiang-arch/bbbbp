@@ -41,3 +41,10 @@ input,select,textarea{font-size:14px;border:1px solid var(--control);border-radi
 .shell.focus-mode main{margin-left:0;width:100%;padding-bottom:0}
 
 .paper-section,.paper-meta,.paper-best,.paper-best small,.paper-bottom>span,.paper-bottom button,.ready-tag,.pending-tag{font-size:13px}.subject-switch button{color:var(--scope)}.collection-id{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}
+
+/* Chemistry identity extends the existing workspace palette. */
+:root[data-subject="ukcho"]{--green:var(--amber);--focus:#8b581c}
+.subject-switch [data-subject="ukcho"]{--scope:#8b581c;--scope-soft:#fbf3e4}
+.question-templates{margin:18px 0;padding:12px 0;border-top:1px solid var(--border)}
+.question-templates summary{cursor:pointer;font-size:14px;color:var(--green);padding:8px 0;min-height:40px}
+.question-templates[open] summary{margin-bottom:12px}

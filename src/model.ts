@@ -1,15 +1,16 @@
 export type Crop = { src: string; page: number };
-export type Question = { id: string; number: string; title: string; maxScore: number; prompt: Crop[]; answer: Crop[]; source: string; answerSource: string; parts?:string[] };
+export type Question = { id: string; number: string; title: string; maxScore: number; prompt: Crop[]; answer: Crop[]; source: string; answerSource: string; templates?: Crop[]; parts?:string[] };
 export const subjects={
  bpho:{label:'BPhO 物理',short:'BPhO',brand:'物理研习室',header:'British Physics Olympiad',detail:'Round 1',color:'#245b47'},
  fp1:{label:'FP1 数学',short:'FP1',brand:'数学研习室',header:'Edexcel Mathematics',detail:'Further Pure 1',color:'#285f99'},
  s2:{label:'S2 统计',short:'S2',brand:'统计研习室',header:'Edexcel Mathematics',detail:'Statistics 2',color:'#285f99'},
  cs:{label:'计算机 P2',short:'CS P2',brand:'计算机研习室',header:'Cambridge Computer Science',detail:'Paper 2',color:'#285f99'},
+ ukcho:{label:'UKChO 化学',short:'UKChO',brand:'化学研习室',header:'UK Chemistry Olympiad',detail:'Round 1',color:'#8b581c'},
 };
 export type Subject = keyof typeof subjects;
 export type Paper = { id: string; subject?: Subject; year: number; month?: number; variant?: string; specification?: 'old'|'new'; section?: number; title: string; instructions: string; choose: number; scoreCap: number; questions: Question[]; cover: Crop[]; ready: boolean; note?: string; mutuallyExclusive?: string[][]; legacy?: boolean; markingNotes?: Crop[];syllabusCode?:string;examSeries?:'s'|'w'|'m';insert?:Crop[] };
 export const subjectOf = (paper?: Paper): Subject => paper?.subject ?? 'bpho';
-export const paperPart = (paper: Paper) => subjectOf(paper)==='cs'?`${paper.examSeries==='s'?'May/June':paper.examSeries==='w'?'Oct/Nov':'Feb/March'} · ${paper.syllabusCode}/${paper.variant}`:subjectOf(paper)!=='bpho'?`${paper.month} 月 · ${subjects[subjectOf(paper)].short}${paper.variant?`（${paper.variant} 卷）`:''}`:`Section ${paper.section}`;
+export const paperPart = (paper: Paper) => subjectOf(paper)==='ukcho'?'Round 1':subjectOf(paper)==='cs'?`${paper.examSeries==='s'?'May/June':paper.examSeries==='w'?'Oct/Nov':'Feb/March'} · ${paper.syllabusCode}/${paper.variant}`:subjectOf(paper)!=='bpho'?`${paper.month} 月 · ${subjects[subjectOf(paper)].short}${paper.variant?`（${paper.variant} 卷）`:''}`:`Section ${paper.section}`;
 export type Grade = { score: string; wrong: boolean; note: string };
 export type Session = { id: string; paperId: string; questionIds: string[]; startedAt: number; submittedAt?: number; completedAt?: number; position: number; markingPosition: number; done: string[]; grades: Record<string, Grade>; updatedAt: number; archived?: boolean };
 export type Mistake = { id: string; paperId: string; questionId: string; sessionIds: string[]; manual?: boolean; mastered: boolean; createdAt: number; updatedAt: number };

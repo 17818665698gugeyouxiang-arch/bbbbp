@@ -3,7 +3,7 @@ export const assetUrl=(src:string)=>src.startsWith('/')&&!src.startsWith('//')?b
 export function assetTree<T>(data:T):T{
  if(Array.isArray(data))return data.map(assetTree) as T;
  if(data&&typeof data==='object')return Object.fromEntries(Object.entries(data).map(([k,v])=>[k,assetTree(v)])) as T;
- return typeof data==='string'&&/^\/(papers|fp1|s2|cs|s2-written|s2-reference)\//.test(data)?assetUrl(data) as T:data;
+ return typeof data==='string'&&/^\/(papers|fp1|s2|cs|ukcho|s2-written|s2-reference)\//.test(data)?assetUrl(data) as T:data;
 }
 declare global{interface Window{STUDY_CLOUD?:{url:string;key:string;enabled:boolean}}}
 export const cloudConfig=typeof window!=='undefined'?window.STUDY_CLOUD:undefined;

@@ -5,12 +5,13 @@ import bpho from '../public/bank.json';
 import fp1 from '../public/fp1-bank.json';
 import s2 from '../public/s2-bank.json';
 import cs from '../public/cs-bank.json';
+import ukcho from '../public/ukcho-bank.json';
 
 const get=(id:string,year=2026)=>boundaryFor({id,year})!;
 
 describe('精确场次的分数线与成绩比较',()=>{
   it('覆盖所有现有试卷，区分已核验、转载参考和无可用分数线',()=>{
-    const papers=[...bpho,...fp1,...s2,...cs];
+    const papers=[...bpho,...fp1,...s2,...cs,...ukcho];
     expect(data.records).toHaveLength(papers.length);
     expect(new Set(data.records.map(r=>r.paperId)).size).toBe(papers.length);
     for(const p of papers){

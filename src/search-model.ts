@@ -3,7 +3,7 @@ import {type Paper,type Session,type Entry,type Subject,subjectOf} from './model
 export type SearchChoice={year:string;paperId:string;questionId:string;resultQuestionId:string};
 export const emptySearch=():SearchChoice=>({year:'',paperId:'',questionId:'',resultQuestionId:''});
 export function loadSearchChoices():Record<Subject,SearchChoice>{
- const all={bpho:emptySearch(),fp1:emptySearch(),s2:emptySearch(),cs:emptySearch()};
+ const all={bpho:emptySearch(),fp1:emptySearch(),s2:emptySearch(),cs:emptySearch(),ukcho:emptySearch()};
  try{const saved=JSON.parse(localStorage.getItem('study-search-choices')??'{}');for(const key of Object.keys(all) as Subject[]){const value=saved[key];if(value&&['year','paperId','questionId','resultQuestionId'].every(k=>typeof value[k]==='string'))all[key]={year:value.year,paperId:value.paperId,questionId:value.questionId,resultQuestionId:value.resultQuestionId};}}catch{}
  return all;
 }
@@ -14,7 +14,7 @@ export function changeSearchPaper(choice:SearchChoice,papers:Paper[],paper?:Pape
 }
 export function changeSearchYear(choice:SearchChoice,papers:Paper[],year:string):SearchChoice{
  const previous=papers.find(p=>p.id===choice.paperId),candidates=papers.filter(p=>String(p.year)===year&&previous&&(subjectOf(previous)==='bpho'?p.section===previous.section:p.month===previous.month));
- const next=candidates.find(p=>p.variant===previous?.variant&&p.specification===previous?.specification)??candidates.find(p=>p.variant===previous?.variant)??candidates[0];
+ const next=(previous?.subject==='ukcho'?papers.find(p=>p.year===Number(year)&&p.subject==='ukcho'):undefined)??candidates.find(p=>p.variant===previous?.variant&&p.specification===previous?.specification)??candidates.find(p=>p.variant===previous?.variant)??candidates[0]??papers.find(p=>p.subject==='ukcho'&&p.year===Number(year));
  return {...changeSearchPaper(choice,papers,next),year};
 }
 export const searchablePapers=(papers:Paper[],subject:Subject)=>papers.filter(p=>!p.legacy&&subjectOf(p)===subject);

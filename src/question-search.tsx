@@ -4,7 +4,7 @@ import {type TopicAttempt} from './topics';
 import {db,mistakeId} from './db';
 import {type Paper,type Session,type Mistake,type Entry,type Photo,type Subject,subjects,paperPart,duration,elapsed,validScore} from './model';
 import {type SearchChoice,searchablePapers,questionAttempts,legacyAttempts,attemptEntries,changeSearchYear,changeSearchPaper} from './search-model';
-import {Crops,Modal} from './media';
+import {Crops,Modal,QuestionTemplates} from './media';
 import {CSAnswers,CSReference} from './cs-answers';
 
 const timestamp=(value:number)=>new Date(value).toLocaleString('zh-CN',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
@@ -12,7 +12,7 @@ type Props={detailOnly?:boolean;collapseAnswer?:boolean;topicAttempts?:TopicAtte
 
 export function QuestionSearch({detailOnly=false,collapseAnswer=false,topicAttempts=[],openTopic,subject,papers,sessions,mistakes,choice,change,revision,addMistake,openSession,openMistake}:Props){
  const [csSeason,setCSSeason]=useState('');
- const bank=searchablePapers(papers,subject),math=subject!=='bpho';
+ const bank=searchablePapers(papers,subject),math=subject!=='bpho'&&subject!=='ukcho';
  const years=[...new Set(bank.map(p=>p.year))].sort((a,b)=>b-a);
  const inYear=bank.filter(p=>String(p.year)===choice.year).sort((a,b)=>(math?(a.month??0)-(b.month??0):(a.section??0)-(b.section??0))||a.id.localeCompare(b.id));
  const selectedSeason=csSeason||inYear.find(p=>p.id===choice.paperId)?.examSeries||'';
@@ -43,14 +43,14 @@ export function QuestionSearch({detailOnly=false,collapseAnswer=false,topicAttem
   <form className="panel question-search-form" onSubmit={event=>{event.preventDefault();if(chosen)change({...choice,resultQuestionId:chosen.id});}}>
    <label>年份<select aria-label="搜题年份" value={choice.year} onChange={event=>change(changeSearchYear(choice,bank,event.target.value))}><option value="">选择年份</option>{years.map(year=><option key={year} value={year}>{year} 年</option>)}</select></label>
    {subject==='cs'&&<label>考试季<select aria-label="搜题考试季" disabled={!choice.year} value={selectedSeason} onChange={e=>{setCSSeason(e.target.value);change({...choice,paperId:'',questionId:'',resultQuestionId:''});}}><option value="">选择考试季</option>{[...new Set(inYear.map(p=>p.examSeries))].map(season=><option key={season} value={season}>{season==='s'?'May/June':season==='w'?'Oct/Nov':'Feb/March'}</option>)}</select></label>}
-   <label>{subject==='cs'?'卷号':math?'月份':'Section'}<select aria-label={subject==='cs'?'搜题卷号':math?'搜题月份':'搜题 Section'} disabled={!choice.year} value={choice.paperId} onChange={event=>change(changeSearchPaper(choice,bank,bank.find(p=>p.id===event.target.value)))}><option value="">{subject==='cs'?'选择卷号':math?'选择月份':'选择 Section'}</option>{inYear.filter(p=>subject!=='cs'||p.examSeries===selectedSeason).map(p=><option key={p.id} value={p.id}>{subject==='cs'?`${p.syllabusCode}/${p.variant}`:math?`${p.month} 月${inYear.filter(x=>x.month===p.month).length>1?` · ${p.variant?`${p.variant} 卷`:subject==='s2'?'常规卷':p.specification==='old'?'旧版':'新版'}`:''}`:`Section ${p.section}`}</option>)}</select></label>
+   {subject!=='ukcho'&&<label>{subject==='cs'?'卷号':math?'月份':'Section'}<select aria-label={subject==='cs'?'搜题卷号':math?'搜题月份':'搜题 Section'} disabled={!choice.year} value={choice.paperId} onChange={event=>change(changeSearchPaper(choice,bank,bank.find(p=>p.id===event.target.value)))}><option value="">{subject==='cs'?'选择卷号':math?'选择月份':'选择 Section'}</option>{inYear.filter(p=>subject!=='cs'||p.examSeries===selectedSeason).map(p=><option key={p.id} value={p.id}>{subject==='cs'?`${p.syllabusCode}/${p.variant}`:math?`${p.month} 月${inYear.filter(x=>x.month===p.month).length>1?` · ${p.variant?`${p.variant} 卷`:subject==='s2'?'常规卷':p.specification==='old'?'旧版':'新版'}`:''}`:`Section ${p.section}`}</option>)}</select></label>}
    <label>题号<select aria-label="搜题题号" disabled={!paper} value={choice.questionId} onChange={event=>change({...choice,questionId:event.target.value,resultQuestionId:''})}><option value="">选择题号</option>{paper?.questions.map(q=><option key={q.id} value={q.id}>第 {q.number} 题</option>)}</select></label>
    <button className="primary" type="submit" disabled={!chosen}><Search size={16}/>查看题目</button>
   </form></>}
   {!question||!paper?<section className="panel empty"><FileText size={30}/><h3>选择一道题，重新梳理思路。</h3><p>所有选项均来自对应年份、场次的原卷。</p></section>:<div className="search-result" key={question.id}>
    <div className="search-result-heading"><div><h2>{paper.year} · {paperPart(paper)} · 第 {question.number} 题</h2><p>满分 {question.maxScore} 分</p></div><div className="button-row">{mistake?<button className="secondary" onClick={()=>openMistake(mistake)}><Bookmark size={16}/>查看错题详情</button>:<button className="secondary" disabled={adding} onClick={async()=>{setAdding(true);setAddError('');try{setAdded(await addMistake(paper,question.id));}catch(e){setAddError(e instanceof Error?e.message:'收录失败，请重试');}finally{setAdding(false);}}}><Bookmark size={16}/>{adding?'正在加入…':'加入错题本'}</button>}</div></div>
    {addError&&<p className="field-error" role="alert">{addError}</p>}
-   {subject==='cs'&&<CSReference paper={paper}/>}<section className="panel search-question"><div className="panel-heading"><h2>题目</h2><span>{question.maxScore} 分</span></div><Crops crops={question.prompt} label={`搜题 · 第 ${question.number} 题题目`}/></section>
+   {subject==='cs'&&<CSReference paper={paper}/>} {subject==='ukcho'&&<details className="panel question-templates"><summary>参考资料与常数表</summary><Crops crops={paper.cover} label="UKChO 参考资料与常数表"/></details>}<section className="panel search-question"><div className="panel-heading"><h2>题目</h2><span>{question.maxScore} 分</span></div><Crops crops={question.prompt} label={`搜题 · 第 ${question.number} 题题目`}/><QuestionTemplates question={question}/></section>
    <details className="topic-answer-disclosure" open={collapseAnswer?undefined:true}><summary hidden={!collapseAnswer}>展开标准答案与评分细则</summary><section className="panel answer-panel search-answer"><div className="panel-heading"><h2>标准答案与评分细则</h2></div>{question.answer.length?<Crops crops={question.answer} label={`搜题 · 第 ${question.number} 题答案`}/>:<p className="info">这道题的标准答案尚未补齐，可以先查看题目和做题记录。</p>}{!!paper.markingNotes?.length&&<div className="general-notes"><button className="text-button" onClick={()=>setShowNotes(!showNotes)}>{showNotes?'收起':'查看'}原卷评分补充说明（跨题通用）</button>{showNotes&&<Crops crops={paper.markingNotes} label="原卷评分补充说明"/>}</div>}</section></details>
    <section className="panel search-attempts"><div className="panel-heading"><h2>我的做题记录</h2><span>{attempts.length} 次训练</span></div>
     {!attempts.length&&<p className="muted">暂无做题记录</p>}
