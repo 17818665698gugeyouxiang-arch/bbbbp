@@ -89,7 +89,7 @@ function App(){
   {current&&paper&&page==='legacy'&&<LegacyRecord session={current} paper={paper}/>}
   {page==='mistake'&&<MistakeDetail key={mid} mistake={mistakes.find(m=>m.id===mid)} papers={papers} sessions={[...sessions,...topicAttempts.map(a=>({...a,paperId:''}))]} topicIds={new Set(topicAttempts.map(a=>a.id))} back={()=>{if(fromTopics){setFromTopics(false);openTopic('');}else go('mistakes');}} refresh={refresh} run={run} revision={revision}/>}
   </>}
-  </div><footer>研习室 <span>{info.short} · {info.brand}</span></footer></main></div>;
+  </div><footer>{page==='library'?'作者：XieMingxuna，CaiQiluo':'研习室'} <span>{info.short} · {info.brand}</span></footer></main></div>;
 }
 type Run=(fn:()=>Promise<void>)=>Promise<void>;
 function PageTitle({title,sub,extra}:{eyebrow:string;title:string;sub:string;extra?:React.ReactNode}){return <div className="page-title"><div>{title&&<h1>{title}</h1>}<p>{sub}</p></div>{extra}</div>;}
